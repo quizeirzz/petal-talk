@@ -1,0 +1,53 @@
+# Pronouns
+E|Fill in the blank: Maria is my friend. ___ is very kind.|She|He|It|They|"Maria" is a female name, so the pronoun is "she".
+E|Fill in the blank: This book belongs to me. It is ___.|mine|my|me|I|"Mine" is a possessive pronoun used without a noun.
+E|Fill in the blank: Tom and I are friends. ___ play football together.|We|They|Us|Them|"Tom and I" become "we" as the subject.
+E|Fill in the blank: Where is my phone? I can't find ___.|it|him|her|them|A single object like a phone is replaced by "it".
+E|Fill in the blank: Give the ball to ___.|me|I|my|mine|After a preposition, the object pronoun "me" is used.
+E|Fill in the blank: The children are hungry. Please feed ___.|them|they|their|theirs|"Them" is the object pronoun for "the children".
+E|Fill in the blank: ___ car is red. (belonging to us)|Our|Ours|We|Us|"Our" is the possessive adjective used before a noun.
+E|Fill in the blank: Is this pen ___? (belonging to you)|yours|your|you|you're|"Yours" is the possessive pronoun that stands alone without a noun.
+E|Fill in the blank: My dog is small, but ___ tail is long.|its|it's|his|their|"Its" shows possession; "it's" means "it is".
+E|Fill in the blank: John loves music. ___ plays the guitar.|He|She|It|His|"John" is a male name, so the subject pronoun is "he".
+E|Fill in the blank: Sarah and Emma are sisters. ___ live in London.|They|She|Them|Their|Two people as the subject are replaced by "they".
+E|Fill in the blank: I made this cake ___.|myself|me|I|mine|The reflexive pronoun "myself" emphasizes that I did it alone.
+E|Fill in the blank: ___ is my brother's bike, not mine.|That|Those|These|Them|"That" is a demonstrative pronoun pointing to a single thing.
+E|Fill in the blank: Can you help ___ with my homework?|me|I|my|mine|The object pronoun "me" follows the verb "help".
+E|Fill in the blank: The teacher gave ___ a lot of homework. (to the students)|them|they|their|theirs|An object pronoun is needed after "gave": "them".
+E|Fill in the blank: ___ are my best friends. (pointing to people nearby)|These|This|That|It|"These" is the plural demonstrative for things or people near the speaker.
+E|Fill in the blank: She cut ___ while cooking.|herself|her|she|hers|The subject and object are the same person, so the reflexive pronoun "herself" is used.
+E|Fill in the blank: Whose bag is this? It is ___. (belonging to him)|his|him|he|he's|"His" is both the possessive adjective and the possessive pronoun for a male.
+M|Fill in the blank: ___ did you talk to?|Whom|Who|Whose|Which|"Whom" is the object form; you talked to him/her, not he/she.
+M|Fill in the blank: Everyone should bring ___ own lunch.|their|his|its|our|Modern English accepts singular "their" with "everyone" to avoid gender bias.
+M|Fill in the blank: The woman ___ lives next door is a dentist.|who|which|whom|whose|"Who" is the relative pronoun for people acting as the subject of the clause.
+M|Fill in the blank: Between you and ___, I think he is wrong.|me|I|myself|mine|After a preposition, use the object pronoun "me".
+M|Fill in the blank: The dog ___ bit me belongs to my neighbor.|that|who|whom|whose|"That" (or "which") is used for animals and things.
+M|Fill in the blank: Neither of the boys brought ___ book.|his|their|its|him|"Neither" is singular, so a singular pronoun is used: "his" (or "his or her").
+M|Fill in the blank: The man ___ car was stolen called the police.|whose|who|whom|which|"Whose" shows possession in a relative clause.
+M|Fill in the blank: They enjoyed ___ at the party.|themselves|themself|them|theirselves|"Themselves" is the standard reflexive pronoun for "they".
+M|Fill in the blank: This is the house ___ I grew up in.|that|who|whom|whose|"That" (or "which") refers to things; "house" is a thing.
+M|Fill in the blank: Each of the girls has finished ___ project.|her|their|its|his|"Each" is singular, and the girls are female, so "her" is correct in formal English.
+M|Fill in the blank: My sister and ___ went to the concert.|I|me|myself|mine|As part of the subject, the subject pronoun "I" is used.
+M|Fill in the blank: The prize goes to ___ finishes first.|whoever|whomever|who|whom|"Whoever" is the subject of "finishes", so the subject form is needed.
+M|Fill in the blank: You can borrow ___ of these two umbrellas.|either|each other|none|every|"Either" means one of the two.
+M|Fill in the blank: The two friends help ___.|each other|themselves|each|other|"Each other" shows a reciprocal action between two people.
+M|Fill in the blank: There's nothing wrong with the car ___.|itself|it|its|herself|"Itself" here is an emphatic pronoun stressing that the car has no problem.
+M|Fill in the blank: I don't like ___ of these three options.|any|either|neither|both|"Any" is used for three or more options; "either/neither" are for two.
+M|Fill in the blank: The teacher praised ___ students who passed.|those|these|them|that|"Those" is a demonstrative adjective pointing to a specific group of students.
+M|Fill in the blank: ___ book is this, yours or mine?|Whose|Who's|Which of|Whom|"Whose" asks about possession; "who's" means "who is".
+H|Fill in the blank: It was ___ who called you last night.|I|me|myself|mine|In formal English, a pronoun after "it was" takes the subject form: "It was I".
+H|Fill in the blank: She is taller than ___.|he is|him is|his|himself|The complete comparison is "than he is", so the subject form is used.
+H|Fill in the blank: To ___ should I address the letter?|whom|who|whose|whoever|After the preposition "to", the object form "whom" is required.
+H|Fill in the blank: Anyone ___ wants to join should sign up today.|who|whom|which|whose|"Who" acts as the subject of "wants" in the relative clause.
+H|Fill in the blank: The committee has made ___ decision.|its|their|it's|his|"Committee" is a singular collective noun, so "its" is standard in American English.
+H|Fill in the blank: I will give the job to ___ I think is most qualified.|whoever|whomever|who|whom|"I think" is parenthetical; "whoever" is the subject of "is most qualified".
+H|Fill in the blank: Nobody but ___ knew the answer.|me|I|myself|mine|"But" acts as a preposition here, so the object form "me" follows it.
+H|Fill in the blank: We blamed ___ for the mistake, even though it wasn't our fault.|ourselves|us|we|our|The subject and object are the same people, so the reflexive "ourselves" is required.
+H|Fill in the blank: The students, ___ had studied hard, passed easily.|all of whom|all of who|all of which|all of whose|"Whom" is the object of the preposition "of", and it refers to people.
+H|Fill in the blank: The director ___ attended the rehearsal, which surprised everyone.|himself|his|him|he|The emphatic pronoun "himself" stresses that the director personally attended.
+X|Fill in the blank: Such behavior is unworthy of a person of ___ stature.|his|him|he|himself|The possessive adjective "his" is needed before the noun "stature".
+X|Fill in the blank: The author, ___ novels I have long admired, is visiting our city.|whose|whom|who|which|"Whose" shows that the novels belong to the author.
+X|Fill in the blank: It is ___ that we are talking about, not you.|they|them|themselves|their|In formal English, a pronoun after "it is" takes the subject form: "It is they".
+X|Fill in the blank: Let you and ___ settle this calmly.|me|I|myself|mine|"You and me" is the object of "let", so the object form is required.
+X|Fill in the blank: ___ of the twins wants to go, so we'll stay home.|Neither|None|Both|Either|"Neither" is used for two people and makes the sentence logical with "so we'll stay home".
+X|Fill in the blank: The candidates, ___ of whom were qualified, waited nervously.|all|whom|every|each one|"All of whom" correctly refers back to the plural noun "candidates".

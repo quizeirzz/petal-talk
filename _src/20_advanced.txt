@@ -1,0 +1,52 @@
+# Advanced English
+E|Which word best completes the collocation: "make a ___"?|decision|homework|progress|research|"Make a decision" is a standard collocation; the others pair with "do".
+E|Which word best completes the collocation: "do your ___"?|homework|a mistake|a favor|a noise|"Do your homework" is the correct collocation; the others pair with "make".
+E|Fill in the blank: I'm afraid I have to ___ our meeting; something urgent came up.|call off|call on|call up|call for|"Call off" means to cancel.
+E|Choose the most formal way to say "get".|obtain|grab|snag|get hold of|"Obtain" is the formal equivalent of "get".
+E|Fill in the blank: Could you ___ the lights before you leave?|turn off|turn down|turn over|turn in|"Turn off" means to switch off.
+E|Which word means "to postpone"?|put off|put on|put out|put up|"Put off" means to delay or postpone.
+E|Fill in the blank: She ___ her grandmother; they have the same eyes and smile.|takes after|takes off|takes in|takes over|"Take after" means to resemble a family member.
+E|Choose the correct phrasal verb: Please ___ the form and sign at the bottom.|fill in|fill up|fill down|fill off|"Fill in" (or "fill out") means to complete a form.
+E|Which is the most polite request?|Would you mind opening the window?|Open the window.|You should open the window.|Window, now.|"Would you mind + -ing" is the most polite form among the options.
+E|Fill in the blank: I ___ into an old friend at the supermarket.|ran|walked|looked|fell|"Run into" means to meet by chance.
+E|Which word best completes the collocation: "heavy ___"?|rain|sunshine|wind blowing|cloud|"Heavy rain" is the natural collocation; strong wind, bright sunshine.
+E|Fill in the blank: We need to ___ a solution quickly.|come up with|come up to|come in with|come over|"Come up with" means to think of or produce an idea.
+E|Which sentence is the most formal?|I would be grateful if you could reply promptly.|Get back to me fast.|Hit me up soon.|Reply quick, okay?|The first sentence uses formal vocabulary and a polite structure.
+E|Fill in the blank: The alarm ___ at six every morning.|goes off|goes out|goes on|goes over|"Go off" means to ring or sound (for an alarm).
+E|Which word best completes the collocation: "strong ___"?|coffee|rain|traffic|homework|"Strong coffee" is a common collocation.
+E|Fill in the blank: I can't ___ this noise any longer.|put up with|put off|put on|put away|"Put up with" means to tolerate.
+E|Which word is the more formal synonym of "help"?|assistance|hand|boost|backup|"Assistance" is the formal noun equivalent of "help".
+E|Fill in the blank: He ___ smoking two years ago.|gave up|gave in|gave away|gave off|"Give up" means to quit a habit.
+M|Which sentence uses "whom" correctly?|To whom should I send the invoice?|Whom is calling, please?|Whom wrote this report?|Whom do you think will win?|"Whom" is the object of the preposition "to"; in the other sentences the subject form "who" is needed.
+M|Fill in the blank: The proposal was ___ rejected by the board.|unanimously|unanimous|unanimity|more unanimous|An adverb is needed to modify the verb "rejected".
+M|Which phrase means "in conclusion" in formal writing?|To sum up|Anyway|So yeah|Long story short|"To sum up" is an accepted formal concluding phrase.
+M|Fill in the blank: Despite ___ for hours, we couldn't find the restaurant.|searching|to search|we searched|search|"Despite" is followed by a noun or gerund.
+M|Which word means "to make something seem less important"?|downplay|highlight|emphasize|magnify|"Downplay" means to make something appear less significant.
+M|Fill in the blank: The CEO's remarks were taken ___ context.|out of|off|away from|outside|"Taken out of context" means quoted without the surrounding information.
+M|Which sentence shows correct use of "affect" and "effect"?|The weather can affect your mood, and the effect can last all day.|The weather can effect your mood, and the affect can last all day.|The weather can affect your mood, and the affect can last all day.|The weather can effect your mood, and the effect can last all day.|"Affect" is usually a verb (to influence); "effect" is usually a noun (a result).
+M|Fill in the blank: She has a ___ understanding of the subject.|thorough|through|threw|thought|"Thorough" means complete and detailed; "through" is a preposition.
+M|Which word is closest in meaning to "mitigate"?|lessen|increase|ignore|confirm|"Mitigate" means to make something less severe.
+M|Fill in the blank: Please ___ from smoking in this area.|refrain|retain|restrain|remain|"Refrain from" means to stop oneself from doing something.
+M|Which sentence is correct?|Fewer people attended this year, so there was less noise.|Less people attended this year, so there was fewer noise.|Fewer people attended this year, so there was fewer noise.|Less people attended this year, so there was less noise.|"Fewer" goes with countable nouns (people); "less" with uncountable nouns (noise).
+M|Fill in the blank: The film ___ the novel very closely.|adheres to|adopts to|adjusts|admits to|"Adhere to" means to follow closely.
+M|Which word means "a brief and witty remark"?|quip|rant|lecture|sermon|A quip is a clever, witty remark.
+M|Fill in the blank: Her argument was ___; nobody could find a flaw in it.|watertight|waterproof|waterlogged|watered-down|"Watertight" describes an argument with no weaknesses.
+M|Which is the correct use of "comprise"?|The committee comprises five members.|The committee is comprised with five members.|Five members comprise of the committee.|The committee comprises of five members.|"Comprise" means "consist of" and is not followed by "of" in traditional usage.
+M|Fill in the blank: The negotiations reached a ___; neither side would compromise.|deadlock|deadline|dead end street|deadweight|A "deadlock" is a situation in which no progress can be made.
+M|Which sentence uses "its" and "it's" correctly?|It's clear that the company has lost its way.|Its clear that the company has lost it's way.|It's clear that the company has lost it's way.|Its clear that the company has lost its way.|"It's" = "it is"; "its" = belonging to it.
+H|Which sentence uses the subjunctive correctly?|I demand that he leave immediately.|I demand that he leaves immediately.|I demand that he left immediately.|I demand that he will leave immediately.|After "demand that", the base form of the verb is used (the subjunctive).
+H|Fill in the blank: His explanation was ___ at best; nobody was convinced.|tenuous|tenacious|tentative|tangible|"Tenuous" means weak or thin, which fits "nobody was convinced".
+H|Which word means "a person who is excessively concerned with minor details and rules"?|pedant|pundit|pioneer|patron|A pedant is someone who focuses excessively on small details and rules.
+H|Fill in the blank: The two theories are not mutually ___; both could be true.|exclusive|inclusive|conclusive|elusive|"Mutually exclusive" means that both cannot be true at once.
+H|Which sentence contains an example of litotes (ironic understatement)?|The exam was not exactly easy.|The exam was impossibly hard.|The exam was a nightmare.|The exam was very difficult.|"Not exactly easy" understates the difficulty by negating its opposite, which is litotes.
+H|Fill in the blank: The senator's speech was full of ___, saying a lot without committing to anything.|equivocation|elaboration|eloquence|erudition|"Equivocation" is the use of ambiguous language to avoid commitment.
+H|Which word correctly completes the sentence: "The treaty was ___ by all member states."|ratified|rectified|certified|verified|"Ratify" means to formally approve an agreement.
+H|Fill in the blank: She spoke with such ___ that the audience hung on every word.|eloquence|elegance|arrogance|reluctance|"Eloquence" is fluent, persuasive speaking.
+H|Which sentence is correct?|Between the two candidates, the former is more experienced.|Between the two candidates, the former is most experienced.|Among the two candidates, the former is more experienced.|Between the two candidates, the latter is the more experiencedest.|"Between" is used for two, and comparing two uses the comparative "more".
+H|Fill in the blank: The scientist's findings ___ the long-held theory.|called into question|called out of question|called on question|called for questioning|"Call into question" means to cast doubt on.
+X|Which sentence correctly uses a nominal relative clause?|What she said surprised everyone.|Which she said surprised everyone.|That she said surprised everyone.|Who she said surprised everyone.|"What she said" functions as a noun phrase and is the subject of the sentence.
+X|Fill in the blank: His ___ remarks offended several guests, though he claimed he was only joking.|caustic|cautious|courteous|cordial|"Caustic" means sarcastic in a hurtful way.
+X|Which word means "an expression that has lost its force through overuse"?|cliché|epithet|metaphor|idiom|A cliché is a phrase that has become stale through overuse.
+X|Fill in the blank: The novel's ___ ending left readers debating its meaning for decades.|ambiguous|ambitious|ambient|amenable|"Ambiguous" means open to more than one interpretation.
+X|Which sentence demonstrates correct use of a fronted negative with inversion?|Under no circumstances should you open this door.|Under no circumstances you should open this door.|Under no circumstances should open you this door.|Under no circumstances you open this door should.|A fronted negative phrase like "under no circumstances" requires subject-auxiliary inversion.
+X|Fill in the blank: The professor's lecture was so ___ that even the experts struggled to follow it.|abstruse|abstract|absurd|absent|"Abstruse" means difficult to understand; obscure.

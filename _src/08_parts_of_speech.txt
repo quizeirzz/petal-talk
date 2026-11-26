@@ -1,0 +1,52 @@
+# Parts of Speech
+E|What part of speech is the word "quickly"?|adverb|adjective|noun|verb|Words ending in -ly that describe how an action is done are usually adverbs.
+E|In the sentence "The dog barked", what part of speech is "dog"?|noun|verb|adjective|pronoun|"Dog" names an animal, so it is a noun.
+E|Which word is a verb?|jump|happy|table|under|"Jump" is an action word, which makes it a verb.
+E|What part of speech is "beautiful"?|adjective|adverb|noun|preposition|"Beautiful" describes a noun, so it is an adjective.
+E|In "She sings well", what part of speech is "she"?|pronoun|noun|verb|adjective|"She" replaces a person's name, so it is a pronoun.
+E|Which word is a noun?|happiness|happy|happily|happen|"Happiness" names a feeling or state, so it is a noun.
+E|What part of speech is "under" in "The cat is under the table"?|preposition|adverb|conjunction|verb|"Under" shows the relationship between the cat and the table, so it is a preposition.
+E|Which word is an adjective?|tall|run|slowly|and|"Tall" describes a noun (a tall tree), so it is an adjective.
+E|In "Wow! That was close", what part of speech is "Wow"?|interjection|adjective|verb|preposition|"Wow" expresses sudden emotion, which makes it an interjection.
+E|What part of speech is "and"?|conjunction|preposition|adverb|pronoun|"And" joins words or groups of words, so it is a conjunction.
+E|Which word is a pronoun?|they|table|green|sing|"They" stands in place of nouns, so it is a pronoun.
+E|Fill in the blank with a verb: The children ___ in the park.|play|happy|quickly|park|A verb is needed after the subject "the children"; "play" is the only verb.
+E|What part of speech is "very" in "very tall"?|adverb|adjective|noun|verb|"Very" modifies the adjective "tall", and words that modify adjectives are adverbs.
+E|Which word is a preposition?|between|because|beautiful|become|"Between" shows position or relationship, so it is a preposition.
+E|In "Paris is a city", what kind of noun is "Paris"?|proper noun|common noun|abstract noun|collective noun|"Paris" names a specific place, so it is a proper noun and is capitalized.
+E|What part of speech is "run" in "I run every morning"?|verb|noun|adjective|adverb|In this sentence "run" is the action performed by the subject, so it is a verb.
+E|Which word is an adverb?|carefully|careful|care|carer|"Carefully" describes how an action is done, so it is an adverb.
+E|What part of speech is "but" in "I tried, but I failed"?|conjunction|preposition|adverb|interjection|"But" connects two clauses, so it is a conjunction.
+M|In "The run was exhausting", what part of speech is "run"?|noun|verb|adjective|adverb|Here "run" is the subject of the sentence and names an event, so it is a noun.
+M|What part of speech is "fast" in "She drives fast"?|adverb|adjective|noun|verb|"Fast" here describes how she drives, modifying the verb, so it is an adverb.
+M|Which word is an abstract noun?|freedom|river|teacher|apple|"Freedom" names an idea that cannot be touched, so it is an abstract noun.
+M|In "The swimming pool is closed", what part of speech is "swimming"?|adjective (participle used as a modifier)|verb|adverb|pronoun|"Swimming" describes the type of pool, so it functions as an adjective.
+M|What part of speech is "herself" in "She hurt herself"?|reflexive pronoun|noun|adjective|adverb|"Herself" refers back to the subject "she", so it is a reflexive pronoun.
+M|Which word is a collective noun?|team|player|goal|stadium|"Team" names a group of individuals, so it is a collective noun.
+M|In "He is well", what part of speech is "well"?|adjective|adverb|noun|verb|After a linking verb like "is", "well" describes the subject's health, so it is an adjective.
+M|What part of speech is "that" in "I know that she is right"?|conjunction|pronoun|adjective|adverb|Here "that" introduces a noun clause, so it functions as a subordinating conjunction.
+M|Which word is a linking verb?|seem|run|write|jump|"Seem" connects the subject to a description without showing action, so it is a linking verb.
+M|What part of speech is "this" in "This book is mine"?|demonstrative adjective (determiner)|pronoun|adverb|conjunction|"This" modifies the noun "book", so it acts as a demonstrative adjective or determiner.
+M|In "Reading is fun", what part of speech is "Reading"?|gerund (noun)|verb|adjective|adverb|"Reading" is an -ing form used as the subject of the sentence, so it is a gerund functioning as a noun.
+M|What part of speech is "yesterday" in "I saw him yesterday"?|adverb|noun|adjective|preposition|"Yesterday" tells when the action happened, modifying the verb, so it is an adverb.
+M|Which word is a possessive adjective?|their|theirs|they|them|"Their" comes before a noun (their house), so it is a possessive adjective.
+M|In "The brave fought on", what part of speech is "brave"?|noun|adjective|adverb|verb|"The brave" refers to brave people, so the adjective is being used as a noun.
+M|What part of speech is "since" in "I haven't seen him since Monday"?|preposition|conjunction|adverb|adjective|"Since" is followed by the noun "Monday", so it functions as a preposition here.
+M|Which word is an auxiliary verb in "She has finished"?|has|she|finished|none of them|"Has" helps form the present perfect tense, so it is an auxiliary (helping) verb.
+M|What part of speech is "each" in "Each student received a prize"?|determiner|pronoun|adverb|conjunction|"Each" modifies the noun "student", so it is a determiner.
+H|In "She walked past the shop", what part of speech is "past"?|preposition|adverb|noun|adjective|"Past" has the object "the shop", so it is a preposition.
+H|What part of speech is "whom" in "the person whom I met"?|relative pronoun|conjunction|interrogative pronoun|adverb|"Whom" introduces a relative clause and refers to "the person", so it is a relative pronoun.
+H|In "The light turned green", what type of verb is "turned"?|linking verb|action verb|auxiliary verb|modal verb|"Turned" links the subject to the state "green", so it is a linking verb here.
+H|What part of speech is "down" in "She looked down"?|adverb|preposition|adjective|noun|With no object following it, "down" modifies the verb "looked", so it is an adverb.
+H|In "The early bird catches the worm", what part of speech is "early"?|adjective|adverb|noun|verb|"Early" describes the noun "bird", so it is an adjective in this sentence.
+H|What part of speech is "once" in "Once you finish, call me"?|subordinating conjunction|adverb|preposition|noun|"Once" introduces a dependent clause, so it functions as a subordinating conjunction.
+H|In "Give me the blue one", what part of speech is "one"?|pronoun|noun|adjective|number|"One" replaces a previously mentioned noun, so it is a pronoun.
+H|What part of speech is "but" in "Nobody but Sam knew"?|preposition|conjunction|adverb|pronoun|"But" here means "except" and takes the object "Sam", so it is a preposition.
+H|In "The homeless need shelter", what part of speech is "homeless"?|noun|adjective|adverb|verb|Preceded by "the" and acting as the subject, "homeless" functions as a noun.
+H|What part of speech is "like" in "She looks like her mother"?|preposition|verb|conjunction|adjective|"Like" here means "similar to" and takes the object "her mother", so it is a preposition.
+X|In "Well, I suppose so", what part of speech is "Well"?|interjection|adverb|adjective|noun|At the start of a sentence as a filler expressing hesitation, "Well" is an interjection.
+X|What part of speech is "to" in "I want to leave"?|infinitive marker (particle)|preposition|adverb|conjunction|"To" before a base verb is the infinitive marker, not a preposition.
+X|In "The then president resigned", what part of speech is "then"?|adjective|adverb|conjunction|noun|"Then" modifies the noun "president" (the president at that time), so it is used as an adjective.
+X|What part of speech is "up" in "She gave up smoking"?|adverb (particle of a phrasal verb)|preposition|adjective|noun|"Up" is a particle that forms the phrasal verb "give up"; it functions as an adverb.
+X|In "I'll do it myself", what is the function of "myself"?|emphatic (intensive) pronoun|reflexive pronoun|possessive pronoun|relative pronoun|"Myself" adds emphasis to "I" rather than acting as an object, so it is an intensive pronoun.
+X|What part of speech is "notwithstanding" in "Notwithstanding the delay, we succeeded"?|preposition|adverb|conjunction|adjective|"Notwithstanding" takes the object "the delay", so it functions as a preposition meaning "despite".

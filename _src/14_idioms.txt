@@ -1,0 +1,53 @@
+# Idioms and Expressions
+E|What does "piece of cake" mean?|something very easy|a sweet dessert|a small portion|a birthday party|"A piece of cake" is an idiom meaning something that is very easy to do.
+E|What does "break a leg" mean?|good luck|be careful|run quickly|take a rest|"Break a leg" is a way of wishing someone good luck, especially before a performance.
+E|What does "it's raining cats and dogs" mean?|It is raining very heavily.|Animals are falling from the sky.|It is slightly cloudy.|Pets are outside in the rain.|This idiom describes very heavy rain.
+E|What does "once in a blue moon" mean?|very rarely|every night|once a month|very often|"Once in a blue moon" means something happens very rarely.
+E|What does "under the weather" mean?|feeling sick|standing in the rain|very happy|outdoors|To feel "under the weather" is to feel slightly ill.
+E|What does "hit the books" mean?|to study hard|to throw books|to go to the library|to buy new books|"Hit the books" means to begin studying seriously.
+E|What does "cost an arm and a leg" mean?|to be very expensive|to cause an injury|to be very cheap|to be dangerous|Something that "costs an arm and a leg" is extremely expensive.
+E|What does "spill the beans" mean?|to reveal a secret|to make a mess|to cook dinner|to drop something|"Spill the beans" means to tell a secret, often by accident.
+E|What does "a couch potato" refer to?|a lazy person who watches a lot of TV|a type of vegetable|a comfortable sofa|a famous chef|A "couch potato" is someone who spends a lot of time sitting and watching television.
+E|What does "call it a day" mean?|to stop working for the day|to make a phone call|to name a holiday|to wake up early|"Call it a day" means to decide to stop working on something.
+E|What does "in hot water" mean?|in trouble|taking a bath|very warm|swimming|Being "in hot water" means being in trouble.
+E|What does "hold your horses" mean?|wait and be patient|ride a horse|hold on tightly|run away quickly|"Hold your horses" tells someone to slow down or wait.
+E|What does "keep an eye on" mean?|to watch carefully|to look away|to close your eyes|to wink|To "keep an eye on" something is to watch it carefully.
+E|What does "a no-brainer" mean?|an obvious, easy decision|a foolish person|a difficult puzzle|a headache|A "no-brainer" is a decision so obvious that it requires no thought.
+E|What does "on cloud nine" mean?|extremely happy|very high up|lost in the sky|confused|Being "on cloud nine" means being extremely happy.
+E|What does "hang in there" mean?|don't give up|climb carefully|stay at home|hold the rope|"Hang in there" is used to encourage someone to keep going in a difficult situation.
+E|What does "get cold feet" mean?|to become nervous and lose courage|to walk in the snow|to need warm socks|to become ill|"Get cold feet" means to suddenly become too nervous to do something planned.
+E|What does "the ball is in your court" mean?|It's your turn to decide or act.|You are playing tennis.|You have lost the game.|You must return the ball.|This idiom means the next decision or action is up to you.
+M|What does "bite the bullet" mean?|to face a difficult situation bravely|to eat quickly|to get angry|to go to the dentist|"Bite the bullet" means to endure something painful or unpleasant with courage.
+M|What does "let the cat out of the bag" mean?|to reveal a secret|to free an animal|to go shopping|to make a mistake|"Let the cat out of the bag" means to disclose a secret, often carelessly.
+M|What does "burn the midnight oil" mean?|to work late into the night|to waste fuel|to start a fire|to cook dinner late|This idiom describes staying up late to work or study.
+M|What does "beat around the bush" mean?|to avoid talking about the main point|to work in the garden|to search carefully|to win easily|Someone who "beats around the bush" avoids addressing the main topic directly.
+M|What does "the last straw" mean?|the final problem that makes a situation unbearable|a drinking straw|the end of harvest|a small detail|"The last straw" is the final difficulty in a series that makes someone lose patience.
+M|What does "a blessing in disguise" mean?|something that seems bad but turns out to be good|a hidden gift|a religious ceremony|a costume party|A "blessing in disguise" is a misfortune that eventually leads to a good result.
+M|What does "cut corners" mean?|to do something cheaply or carelessly to save time|to drive carefully|to trim paper|to take a shortcut on the road|To "cut corners" means to skip steps and do something poorly to save time or money.
+M|What does "on the fence" mean?|undecided|in the garden|in danger|very confident|Being "on the fence" means not having made a decision between two options.
+M|What does "pull someone's leg" mean?|to joke with or tease someone|to injure someone|to help someone walk|to drag someone away|"Pulling someone's leg" means playfully fooling them.
+M|What does "a dime a dozen" mean?|very common and of little value|very expensive|exactly twelve|a bargain|Things that are "a dime a dozen" are so common that they have little value.
+M|What does "miss the boat" mean?|to miss an opportunity|to arrive late at the harbor|to lose a competition|to get seasick|To "miss the boat" is to be too late to take advantage of an opportunity.
+M|What does "through thick and thin" mean?|in good times and bad times|in forests and fields|while eating|at different weights|"Through thick and thin" means staying loyal under all circumstances.
+M|What does "in the same boat" mean?|in the same difficult situation|traveling together|sharing a room|on vacation|People "in the same boat" face the same problem.
+M|What does "add fuel to the fire" mean?|to make a bad situation worse|to start a campfire|to drive a car|to cook outdoors|"Add fuel to the fire" means to make a conflict or problem more intense.
+M|What does "hit the nail on the head" mean?|to be exactly right|to build something|to hurt yourself|to make a loud noise|This idiom means to describe a situation or problem precisely.
+M|What does "a drop in the ocean" mean?|a very small part of what is needed|a sea creature|a rainy day|a swimming lesson|"A drop in the ocean" means an amount too small to make a difference.
+M|What does "go the extra mile" mean?|to make more effort than expected|to walk a long way|to get lost|to run a race|To "go the extra mile" is to do more than what is required.
+M|What does "face the music" mean?|to accept the consequences of your actions|to attend a concert|to sing in public|to turn up the volume|"Face the music" means to confront criticism or punishment for something you did.
+H|What does "throw in the towel" mean?|to give up|to do the laundry|to start a fight|to clean up|"Throw in the towel" comes from boxing and means to admit defeat.
+H|What does "the elephant in the room" mean?|an obvious problem that nobody wants to discuss|a very large animal|a crowded space|a surprise guest|This idiom refers to a major issue everyone is aware of but avoids mentioning.
+H|What does "steal someone's thunder" mean?|to take attention or credit away from someone|to cause a storm|to make a loud noise|to copy a speech|"Stealing someone's thunder" means taking the praise or attention they expected.
+H|What does "by the skin of your teeth" mean?|just barely|very painfully|with great confidence|by brushing well|To succeed "by the skin of your teeth" is to succeed by the narrowest margin.
+H|What does "burn bridges" mean?|to destroy relationships permanently|to cross a river|to travel far|to build something new|"Burning bridges" means damaging relationships so that you cannot return to them.
+H|What does "jump on the bandwagon" mean?|to join something because it is popular|to climb onto a vehicle|to play in a band|to leave quickly|To "jump on the bandwagon" is to follow a trend because many others are doing so.
+H|What does "take with a grain of salt" mean?|to not completely believe something|to add seasoning|to eat carefully|to accept fully|To take something "with a grain of salt" is to be skeptical about it.
+H|What does "get out of hand" mean?|to become out of control|to drop something|to leave a room|to finish quickly|When a situation "gets out of hand", it becomes uncontrollable.
+H|What does "sit on the fence" mean?|to avoid taking sides|to rest outdoors|to guard a property|to climb over a barrier|"Sitting on the fence" means refusing to commit to either side of an argument.
+H|What does "a wolf in sheep's clothing" mean?|a dangerous person who appears harmless|a farm animal|a costume|a shy person|This idiom describes someone who hides harmful intentions behind a friendly appearance.
+X|What does "to gild the lily" mean?|to add unnecessary decoration to something already beautiful|to paint a flower gold|to grow flowers|to be very wealthy|"Gilding the lily" means trying to improve something that is already perfect, making it worse.
+X|What does "to cross the Rubicon" mean?|to pass a point of no return|to swim across a river|to visit Italy|to take a risky shortcut|From Julius Caesar's history, "crossing the Rubicon" means committing irrevocably to a course of action.
+X|What does "a Pyrrhic victory" mean?|a victory that costs so much it is almost a defeat|an easy win|a victory in sports|a cheating win|A "Pyrrhic victory" is won at such great cost that it is hardly worth it.
+X|What does "to throw down the gauntlet" mean?|to issue a challenge|to give up|to drop a glove|to apologize|Throwing down the gauntlet is a medieval gesture of challenging someone to a duel, now meaning to issue any challenge.
+X|What does "to rest on one's laurels" mean?|to rely on past success instead of making new effort|to sleep in a garden|to retire early|to win a competition|"Resting on one's laurels" means becoming complacent after an achievement.
+X|What does "sour grapes" mean?|pretending to dislike something you cannot have|bad fruit|a bitter wine|an angry farmer|From Aesop's fable, "sour grapes" describes criticizing something only because you cannot obtain it.

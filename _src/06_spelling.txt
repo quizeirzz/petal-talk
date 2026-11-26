@@ -1,0 +1,53 @@
+# Spelling
+E|Which word is spelled correctly?|friend|freind|frend|friende|Remember the rhyme "i before e except after c": friend.
+E|Choose the correct spelling.|beautiful|beutiful|beautifull|butiful|"Beautiful" has "eau" in the middle and one final l.
+E|Which is the correct spelling?|because|becuase|becouse|beacuse|"Because" is spelled b-e-c-a-u-s-e.
+E|Which word is spelled correctly?|tomorrow|tommorow|tomorow|tommorrow|"Tomorrow" has one m and two r's.
+E|Choose the correct spelling.|Wednesday|Wendsday|Wensday|Wednessday|"Wednesday" keeps the silent "d": Wed-nes-day.
+E|Which is spelled correctly?|different|diffrent|diferent|differant|"Different" has two f's and ends in -ent.
+E|Which word is spelled correctly?|February|Febuary|Februery|Feburary|"February" contains an "r" after the "b", even though it is often not pronounced.
+E|Choose the correct spelling.|which|wich|whitch|whech|The question word is spelled w-h-i-c-h.
+E|Which is the correct spelling?|people|peaple|peopel|poeple|"People" is spelled p-e-o-p-l-e.
+E|Which word is spelled correctly?|favorite|favrite|faverite|favourit|In American English the word is "favorite" (British: "favourite").
+E|Choose the correct spelling.|believe|beleive|belive|believ|"Believe" follows the "i before e" rule.
+E|Which is spelled correctly?|really|realy|reelly|rilly|"Really" is "real" plus "-ly", keeping both l's.
+E|Which word is spelled correctly?|business|buisness|bussiness|busness|"Business" comes from "busy" plus "-ness", with the y changed to i.
+E|Choose the correct spelling.|minute|minit|minnute|minuet|The unit of time is spelled "minute"; "minuet" is a dance.
+E|Which is the correct spelling?|finally|finaly|finnally|finely|"Finally" is "final" plus "-ly", so it has two l's.
+E|Which word is spelled correctly?|beginning|begining|beginnning|beggining|When adding -ing to "begin", the final n is doubled.
+E|Choose the correct spelling.|until|untill|unitl|untile|"Until" has only one l, unlike "till".
+E|Which is spelled correctly?|library|libary|liberry|librery|"Library" has two r's: lib-rar-y.
+M|Which word is spelled correctly?|necessary|neccessary|necesary|neccesary|"Necessary" has one c and two s's: "one collar, two sleeves".
+M|Choose the correct spelling.|separate|seperate|separete|saperate|"Separate" has "a" in the middle: sep-a-rate. Remember there is "a rat" in separate.
+M|Which is spelled correctly?|definitely|definately|definitly|defenitely|"Definitely" contains "finite": de-finite-ly.
+M|Which word is spelled correctly?|receive|recieve|receeve|receve|After "c", the order is "ei": receive.
+M|Choose the correct spelling.|occasion|ocassion|occassion|ocasion|"Occasion" has two c's and one s.
+M|Which is spelled correctly?|embarrass|embarass|embarras|emberrass|"Embarrass" has two r's and two s's.
+M|Which word is spelled correctly?|government|goverment|governmant|govenment|"Government" keeps the "n" from "govern".
+M|Choose the correct spelling.|achieve|acheive|achive|acheave|"Achieve" follows "i before e".
+M|Which is the correct spelling?|environment|enviroment|enviornment|environmant|"Environment" has an "n" before the "m": environ-ment.
+M|Which word is spelled correctly?|grateful|greatful|gratefull|gratful|"Grateful" comes from Latin "gratus", not from "great".
+M|Choose the correct spelling.|calendar|calender|calandar|calinder|"Calendar" ends in -ar.
+M|Which is spelled correctly?|rhythm|rythm|rhythym|rhithm|"Rhythm" has no ordinary vowel letters except y: r-h-y-t-h-m.
+M|Which word is spelled correctly?|accommodate|accomodate|acommodate|acomodate|"Accommodate" has two c's and two m's.
+M|Choose the correct spelling.|argument|arguement|arguemant|argumant|When "-ment" is added to "argue", the final e is dropped.
+M|Which is spelled correctly?|conscience|concience|consience|conscence|"Conscience" contains the word "science".
+M|Which word is spelled correctly?|existence|existance|existense|exsistence|"Existence" ends in -ence.
+M|Choose the correct spelling.|privilege|priviledge|privelege|privilige|"Privilege" has no "d" and ends in -lege.
+M|Which is the correct spelling?|restaurant|restaraunt|resturant|restuarant|"Restaurant" is spelled r-e-s-t-a-u-r-a-n-t.
+H|Which word is spelled correctly?|maintenance|maintainance|maintenence|maintanance|"Maintenance" drops the "ai" of "maintain" in the middle syllable.
+H|Choose the correct spelling.|liaison|liason|liasion|liaision|"Liaison" has an "i" after the "a": li-ai-son.
+H|Which is spelled correctly?|millennium|millenium|milennium|milenium|"Millennium" has two l's and two n's.
+H|Which word is spelled correctly?|occurrence|occurence|ocurrence|occurrance|"Occurrence" has double c, double r, and ends in -ence.
+H|Choose the correct spelling.|perseverance|perseverence|perserverance|persaverance|"Perseverance" ends in -ance and has no extra "r" after "per".
+H|Which is spelled correctly?|questionnaire|questionaire|questionnair|questionare|"Questionnaire" has two n's.
+H|Which word is spelled correctly?|conscientious|consciencious|conscientous|conscentious|"Conscientious" ends in -tious.
+H|Choose the correct spelling.|pronunciation|pronounciation|pronuncation|prononciation|Unlike "pronounce", the noun is "pronunciation", without the "o" in the second syllable.
+H|Which is the correct spelling?|bureaucracy|beaurocracy|bureacracy|burocracy|"Bureaucracy" begins with "bureau" and ends in -cracy.
+H|Which word is spelled correctly?|supersede|supercede|superseed|supresede|"Supersede" is the only common English word ending in -sede.
+X|Which word is spelled correctly?|hierarchy|heirarchy|hierachy|hierarky|"Hierarchy" begins with "hier-" and ends in -archy.
+X|Choose the correct spelling.|idiosyncrasy|idiosyncracy|idiosincrasy|ideosyncrasy|"Idiosyncrasy" ends in -crasy, not -cracy.
+X|Which is spelled correctly?|minuscule|miniscule|minuscle|minascule|"Minuscule" comes from "minus", not "mini".
+X|Which word is spelled correctly?|onomatopoeia|onomatopeia|onomatopoea|onomotopoeia|"Onomatopoeia" ends in -poeia.
+X|Choose the correct spelling.|dilettante|dilletante|dilettant|diletante|"Dilettante" has one l and two t's.
+X|Which is the correct spelling?|sacrilegious|sacreligious|sacrilegous|sacriligious|Despite the connection to "religion", the word is spelled "sacrilegious", from "sacrilege".

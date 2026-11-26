@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Library — PetalTalk</title>
+  <meta name="description" content="Your personal PetalTalk library: bookmarks, mistakes, recent questions, grammar notes and vocabulary notes.">
+  <meta name="theme-color" content="#8ABDE3">
+  <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body data-page="library">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header" id="siteHeader"></header>
+  <main id="main" class="page">
+    <section class="wrap">
+      <div class="page-head">
+        <div><span class="eyebrow">Learning library</span><h1>Your pressed flowers</h1><p id="libSummary"></p></div>
+        <span id="libMimo"></span>
+      </div>
+      <div class="tabs" id="libTabs" role="tablist"></div>
+      <div class="tab-panel" id="tabBookmarks" role="tabpanel"></div>
+      <div class="tab-panel" id="tabIncorrect" role="tabpanel" hidden></div>
+      <div class="tab-panel" id="tabRecent" role="tabpanel" hidden></div>
+      <div class="tab-panel" id="tabFavorites" role="tabpanel" hidden></div>
+      <div class="tab-panel" id="tabGrammar" role="tabpanel" hidden></div>
+      <div class="tab-panel" id="tabVocab" role="tabpanel" hidden></div>
+      <div class="tab-panel" id="tabTips" role="tabpanel" hidden></div>
+    </section>
+    <script>document.addEventListener("DOMContentLoaded",function(){document.getElementById("libMimo").innerHTML=PT.mimo("love",{className:"head-mimo bob"});});</script>
+  </main>
+  <footer class="site-footer" id="siteFooter"></footer>
+  <script src="data/questions.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/randomizer.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/achievements.js"></script>
+  <script src="js/navigation.js"></script>
+  <script src="js/daily.js"></script>
+  <script src="js/home.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/library.js"></script>
+  <script src="js/settings.js"></script>
+</body>
+</html>

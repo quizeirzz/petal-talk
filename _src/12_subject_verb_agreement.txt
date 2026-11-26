@@ -1,0 +1,52 @@
+# Subject-Verb Agreement
+E|Fill in the blank: The dog ___ every night.|barks|bark|barking|are barking|A singular subject takes the -s form of the verb in the simple present.
+E|Fill in the blank: My friends ___ in Canada.|live|lives|is living|has lived|A plural subject takes the base form of the verb.
+E|Fill in the blank: She ___ three languages.|speaks|speak|are speaking|have spoken|"She" is third-person singular, so "speaks" is correct.
+E|Fill in the blank: The students ___ ready for the test.|are|is|am|be|"Students" is plural, so the verb is "are".
+E|Fill in the blank: I ___ a student.|am|is|are|be|"I" always takes "am" in the present tense.
+E|Fill in the blank: The cat and the dog ___ sleeping.|are|is|am|be|Two subjects joined by "and" form a plural subject.
+E|Fill in the blank: He ___ to school by bus.|goes|go|going|are going|Third-person singular "he" takes "goes".
+E|Fill in the blank: We ___ pizza on Fridays.|eat|eats|is eating|has eaten|"We" is plural and takes the base form "eat".
+E|Fill in the blank: My mother ___ in a hospital.|works|work|working|are working|"My mother" is singular, so the verb needs -s.
+E|Fill in the blank: The birds ___ in the morning.|sing|sings|is singing|has sung|Plural "birds" takes the base form "sing".
+E|Fill in the blank: It ___ a lot in April.|rains|rain|raining|are raining|"It" is singular, so the verb is "rains".
+E|Fill in the blank: You ___ my best friend.|are|is|am|be|"You" always takes "are".
+E|Fill in the blank: The baby ___ when she is hungry.|cries|cry|crying|are crying|Singular "baby" requires "cries".
+E|Fill in the blank: Those shoes ___ too expensive.|are|is|am|be|"Shoes" is plural, so the verb is "are".
+E|Fill in the blank: The teacher ___ us homework every day.|gives|give|giving|are giving|A singular subject needs the -s form: "gives".
+E|Fill in the blank: My parents ___ TV in the evening.|watch|watches|is watching|has watched|"Parents" is plural, so "watch" is correct.
+E|Fill in the blank: There ___ a book on the desk.|is|are|am|were being|The real subject "a book" is singular, so "is" is correct.
+E|Fill in the blank: Mark and Lisa ___ married.|are|is|am|be|Two people joined by "and" make a plural subject.
+M|Fill in the blank: Everyone ___ invited to the party.|is|are|were|have been|"Everyone" is grammatically singular and takes "is".
+M|Fill in the blank: Neither the teacher nor the students ___ happy with the result.|were|was|is|has been|With "neither ... nor", the verb agrees with the nearer subject, "students" (plural).
+M|Fill in the blank: The team ___ practicing for the final.|is|are|am|were being|In American English, a collective noun like "team" takes a singular verb when acting as a unit.
+M|Fill in the blank: One of my friends ___ a pilot.|is|are|were|have been|The subject is "one", which is singular; "of my friends" is a prepositional phrase.
+M|Fill in the blank: Mathematics ___ my favorite subject.|is|are|were|have been|Subjects of study ending in -s, like "mathematics", are singular.
+M|Fill in the blank: Either the manager or his assistant ___ to sign the form.|has|have|are|were|With "either ... or", the verb agrees with the nearer singular subject "assistant".
+M|Fill in the blank: Ten dollars ___ too much for that sandwich.|is|are|were|have been|An amount of money is treated as a single unit and takes a singular verb.
+M|Fill in the blank: The list of items ___ on the table.|is|are|were|have been|The subject is "list" (singular), not "items".
+M|Fill in the blank: Somebody ___ left the door open.|has|have|are|were|Indefinite pronouns like "somebody" are singular.
+M|Fill in the blank: A pair of scissors ___ in the drawer.|is|are|were|have been|"A pair" is the singular subject; "of scissors" modifies it.
+M|Fill in the blank: Each of the players ___ a medal.|receives|receive|are receiving|have received|"Each" is singular, so the verb is "receives".
+M|Fill in the blank: My family ___ all tall. (emphasizing individual members)|are|is|was|has been|When members act individually, British and some American usage allows a plural verb: "are all tall".
+M|Fill in the blank: Bread and butter ___ my usual breakfast.|is|are|were|have been|"Bread and butter" is one dish, so it takes a singular verb.
+M|Fill in the blank: The police ___ investigating the case.|are|is|was|has been|"Police" is a plural noun and always takes a plural verb.
+M|Fill in the blank: Half of the cake ___ gone.|is|are|were|have been|With fractions, the verb agrees with the noun after "of"; "cake" is singular.
+M|Fill in the blank: Half of the students ___ absent today.|are|is|was|has been|"Students" is plural, so the verb after "half of" is plural.
+M|Fill in the blank: Nobody ___ what happened.|knows|know|are knowing|have known|"Nobody" is singular and takes "knows".
+H|Fill in the blank: The committee ___ divided in their opinions.|are|is|was|has been|When members disagree, the collective noun is treated as plural, as the pronoun "their" indicates.
+H|Fill in the blank: A number of students ___ late today.|were|was|is|has been|"A number of" means "several" and takes a plural verb.
+H|Fill in the blank: The number of accidents ___ decreased.|has|have|are|were|"The number of" refers to a single figure and takes a singular verb.
+H|Fill in the blank: Here ___ the keys you asked for.|are|is|was|has been|In inverted sentences starting with "here", the verb agrees with the following subject, "keys".
+H|Fill in the blank: Not only the students but also the teacher ___ surprised.|was|were|are|have been|With "not only ... but also", the verb agrees with the nearer subject, "teacher".
+H|Fill in the blank: Physics ___ difficult for many students, but the statistics ___ encouraging.|is / are|are / is|is / is|are / are|"Physics" (a subject) is singular; "statistics" meaning figures or data is plural.
+H|Fill in the blank: The majority of the voters ___ in favor of the plan.|are|is|was|has been|"The majority of" plus a plural noun takes a plural verb.
+H|Fill in the blank: Measles ___ a serious disease.|is|are|were|have been|Disease names ending in -s, like "measles", are singular.
+H|Fill in the blank: The teacher, as well as the students, ___ excited.|is|are|were|have been|Phrases like "as well as" do not change the number of the subject, which is "teacher".
+H|Fill in the blank: Every boy and girl ___ a certificate.|receives|receive|are receiving|have received|"Every" makes the compound subject singular.
+X|Fill in the blank: None of the water ___ safe to drink.|is|are|were|have been|With uncountable nouns, "none of" takes a singular verb.
+X|Fill in the blank: The criteria for admission ___ strict.|are|is|was|has been|"Criteria" is the plural of "criterion" and takes a plural verb.
+X|Fill in the blank: Many a traveler ___ lost in these mountains.|has gotten|have gotten|are getting|were getting|"Many a" plus a singular noun takes a singular verb.
+X|Fill in the blank: Three-quarters of the land ___ owned by the state.|is|are|were|have been|"Land" is uncountable, so the fraction takes a singular verb.
+X|Fill in the blank: What matters most ___ the results.|is|are|were|have been|A clause beginning with "what" as a subject takes a singular verb.
+X|Fill in the blank: The phenomena described in the report ___ rare.|are|is|was|has been|"Phenomena" is the plural of "phenomenon" and takes a plural verb.

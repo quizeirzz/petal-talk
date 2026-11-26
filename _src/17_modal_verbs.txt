@@ -1,0 +1,52 @@
+# Modal Verbs
+E|Fill in the blank: I ___ swim when I was five.|could|can|must|should|"Could" is the past form of "can" for ability.
+E|Fill in the blank: You ___ wear a seatbelt in the car. It's the law.|must|might|could|would|"Must" expresses a strong obligation or rule.
+E|Fill in the blank: ___ I borrow your pen, please?|May|Must|Should|Would|"May" (or "can/could") is used to ask for permission politely.
+E|Fill in the blank: It ___ rain later, so take an umbrella.|might|must|should|can't|"Might" expresses possibility.
+E|Fill in the blank: You ___ eat so much candy; it's bad for your teeth.|shouldn't|mustn't be|can't|wouldn't|"Shouldn't" gives advice against something.
+E|Fill in the blank: She ___ speak three languages.|can|must|should|may to|"Can" expresses ability in the present.
+E|Fill in the blank: You look tired. You ___ go to bed early.|should|must not|can't|would|"Should" is used to give advice.
+E|Fill in the blank: ___ you help me carry these bags?|Could|Must|Should|Might|"Could you...?" is a polite request.
+E|Fill in the blank: Students ___ run in the hallway. It is forbidden.|must not|don't have to|might not|couldn't|"Must not" expresses prohibition.
+E|Fill in the blank: We ___ hurry, or we will miss the train.|must|might|could|may|"Must" expresses necessity.
+E|Fill in the blank: I ___ like a cup of tea, please.|would|will|must|can|"Would like" is a polite way to say "want".
+E|Fill in the blank: Birds ___ fly, but penguins cannot.|can|must|should|would|"Can" expresses general ability.
+E|Fill in the blank: You ___ pay for the museum; it is free today.|don't have to|mustn't|can't|shouldn't|"Don't have to" means it is not necessary.
+E|Fill in the blank: ___ you like some coffee?|Would|Should|Must|Can be|"Would you like...?" is a polite offer.
+E|Fill in the blank: He ___ be at home; the lights are on.|must|can't|shouldn't|might not|"Must" expresses a logical conclusion based on evidence.
+E|Fill in the blank: ___ I open the window? It's hot in here.|Shall|Must|Would|Had|"Shall I...?" offers to do something.
+E|Fill in the blank: Dogs ___ enter this restaurant.|cannot|should|must|would|"Cannot" expresses that something is not allowed.
+E|Fill in the blank: I ___ finish my homework before I play.|have to|would|could|might|"Have to" expresses obligation.
+M|Fill in the blank: She ___ be at work; I just saw her at the mall.|can't|must|should|may|"Can't" expresses a logical impossibility based on evidence.
+M|Fill in the blank: You ___ have told me earlier! Now it's too late.|should|must|can|might|"Should have + past participle" criticizes a past action that didn't happen.
+M|Fill in the blank: He ___ have missed the bus; that's why he is late.|must|should|would|can|"Must have + past participle" expresses a confident deduction about the past.
+M|Fill in the blank: When I was young, I ___ play outside for hours.|would|should|must|may|"Would" describes repeated past habits.
+M|Fill in the blank: You ___ smoke here. It's a hospital.|mustn't|don't have to|needn't|wouldn't|"Mustn't" expresses prohibition.
+M|Fill in the blank: I ___ have left my keys at the office, but I'm not sure.|might|must|should|can|"Might have" expresses an uncertain possibility in the past.
+M|Fill in the blank: We ___ book a table; the restaurant is usually empty.|needn't|mustn't|can't|wouldn't|"Needn't" means it is not necessary.
+M|Fill in the blank: ___ you mind closing the door?|Would|Should|Must|May|"Would you mind + -ing" is a polite request.
+M|Fill in the blank: She ___ be over 60, but she looks much younger.|must|can't|shouldn't|would|"Must" shows the speaker is confident based on known facts.
+M|Fill in the blank: You ___ to see a dentist about that tooth.|ought|should|must|had|"Ought to" gives advice; the other options are not followed by "to".
+M|Fill in the blank: I ___ run a marathon last year, but now I can't.|was able to|can|could have|must|"Was able to" expresses a specific achievement in the past.
+M|Fill in the blank: They ___ have arrived by now; the flight landed an hour ago.|should|can|might not|mustn't|"Should have" expresses expectation that something has probably happened.
+M|Fill in the blank: You ___ be joking! That can't be true.|must|should|would|could|"Must be joking" is a common deduction expressing disbelief.
+M|Fill in the blank: ___ we go for a walk? The weather is lovely.|Shall|Must|Would|Had|"Shall we...?" makes a suggestion.
+M|Fill in the blank: He ___ have won the race if he hadn't fallen.|could|must|should to|may to|"Could have" expresses a past possibility that did not happen.
+M|Fill in the blank: You ___ have worried; everything turned out fine.|needn't|mustn't|can't|wouldn't|"Needn't have + past participle" means an action was done but was unnecessary.
+M|Fill in the blank: I ___ rather stay home tonight.|would|should|must|might|"Would rather" expresses preference.
+H|Fill in the blank: The patient ___ have survived without the surgery.|wouldn't|mustn't|needn't|shan't|"Wouldn't have" describes a hypothetical past result.
+H|Fill in the blank: She ___ have been more than twenty when she wrote the novel.|can't|mustn't|shouldn't|needn't|"Can't have" expresses certainty that something was impossible in the past.
+H|Fill in the blank: You ___ have seen John yesterday; he was in Paris.|couldn't|mustn't|shouldn't|needn't|"Couldn't have" expresses that something was impossible in the past.
+H|Fill in the blank: I ___ have called you, but my phone died.|would|must|can|shall|"Would have" expresses an intended past action that was prevented.
+H|Fill in the blank: We ___ have taken the highway; the back roads were much slower.|should|must|can|will|"Should have" expresses regret or criticism about a past decision.
+H|Fill in the blank: ___ you need any help, just call me.|Should|Must|Would|Could|"Should" in an inverted conditional means "if you happen to".
+H|Fill in the blank: He ___ have been sleeping when I called; he didn't answer.|may|will|shall|needn't|"May have been + -ing" expresses a possible ongoing past action.
+H|Fill in the blank: The train ___ be late; it is never on time.|is bound to|must to|should to|can to|"Be bound to" expresses strong certainty, similar to "will definitely".
+H|Fill in the blank: You ___ have been exhausted after such a long flight.|must|can|will|shall|"Must have been" is a confident deduction about a past state.
+H|Fill in the blank: I didn't have to wake up early, but I ___.|did|must|had|should|After "didn't have to", the short response "did" shows the action happened anyway.
+X|Fill in the blank: ___ that I were able to help, I would.|Would|Should|Could|Must|"Would that..." is a formal, literary way of expressing a wish.
+X|Fill in the blank: He ___ have been promoted had he stayed another year.|might well|must well|can well|shall well|"Might well have" expresses a strong past possibility in a hypothetical context.
+X|Fill in the blank: They ___ have been informed; the memo was sent to every department.|must|can't|needn't|shan't|Evidence (the memo) supports a confident deduction: "must have been informed".
+X|Fill in the blank: ___ it not been for your help, we would have failed.|Had|Should|Would|Must|"Had it not been for" is an inverted third conditional expressing "without".
+X|Fill in the blank: You ___ as well tell him the truth; he'll find out anyway.|might|must|should|can|"Might as well" suggests there is no better alternative.
+X|Fill in the blank: Candidates ___ submit the form by Friday; late forms will not be accepted.|are to|would|might|could|"Be to" expresses a formal instruction or requirement.

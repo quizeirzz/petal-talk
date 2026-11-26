@@ -1,0 +1,53 @@
+# Conjunctions
+E|Fill in the blank: I like tea ___ coffee.|and|but|because|so|"And" joins two things that both apply.
+E|Fill in the blank: She is tired, ___ she keeps working.|but|and|or|so|"But" shows a contrast between being tired and continuing to work.
+E|Fill in the blank: I stayed home ___ it was raining.|because|so|but|or|"Because" introduces the reason for staying home.
+E|Fill in the blank: Would you like tea ___ coffee?|or|and|but|so|"Or" presents a choice between alternatives.
+E|Fill in the blank: It was cold, ___ I wore a jacket.|so|because|or|but|"So" introduces the result of the cold weather.
+E|Fill in the blank: Wash your hands ___ you eat.|before|after|because|or|Logically, hands are washed before eating.
+E|Fill in the blank: I will call you ___ I arrive.|when|because|or|but|"When" introduces the time of the action.
+E|Fill in the blank: He ran fast, ___ he missed the bus.|but|so|because|and then|"But" shows the unexpected contrast: running fast yet missing the bus.
+E|Fill in the blank: Brush your teeth ___ you go to bed.|before|unless|because|although|Teeth are brushed before going to bed.
+E|Fill in the blank: ___ it was late, we kept talking.|Although|Because|So|Or|"Although" introduces a contrast: despite the late hour, we talked.
+E|Fill in the blank: You can have cake ___ ice cream, but not both.|or|and|so|because|"Or" offers a choice between two options.
+E|Fill in the blank: She smiled ___ waved at us.|and|but|or|because|"And" links two actions she did.
+E|Fill in the blank: We will go to the park ___ it doesn't rain.|if|unless|because|but|"If" introduces the condition for going.
+E|Fill in the blank: He didn't study, ___ he failed the test.|so|because|but|or|"So" introduces the result of not studying.
+E|Fill in the blank: I was late ___ the traffic was terrible.|because|so|but|or|"Because" gives the reason for being late.
+E|Fill in the blank: She can sing ___ dance.|and|or|but|because|"And" joins two abilities she has.
+E|Fill in the blank: Wait here ___ I come back.|until|because|although|so|"Until" marks the end point of the waiting.
+E|Fill in the blank: The movie was long, ___ it was interesting.|but|so|because|or|"But" shows the contrast between long and interesting.
+M|Fill in the blank: ___ he is rich, he is not happy.|Although|Because|So|Unless|"Although" introduces a surprising contrast.
+M|Fill in the blank: You won't pass ___ you study harder.|unless|if|because|although|"Unless" means "if not": you won't pass if you don't study harder.
+M|Fill in the blank: ___ you finish your homework, you can watch TV.|As soon as|Unless|Although|Whereas|"As soon as" indicates that one event follows immediately after another.
+M|Fill in the blank: She studied hard; ___, she passed with top marks.|therefore|however|although|whereas|"Therefore" introduces a logical result.
+M|Fill in the blank: Neither the manager ___ the staff knew about the change.|nor|or|and|but|"Neither" pairs with "nor".
+M|Fill in the blank: Both the teacher ___ the students enjoyed the trip.|and|or|nor|but|"Both" pairs with "and".
+M|Fill in the blank: I will go ___ you go.|wherever|whoever|whatever|whichever|"Wherever" means "to any place that".
+M|Fill in the blank: He speaks English ___ he were a native speaker.|as if|even if|as|because|"As if" introduces a hypothetical comparison.
+M|Fill in the blank: She left early ___ she could catch the train.|so that|because|although|unless|"So that" expresses purpose.
+M|Fill in the blank: I like coffee, ___ my sister prefers tea.|whereas|because|so|if|"Whereas" contrasts two different preferences.
+M|Fill in the blank: ___ the rain, the match continued.|Despite|Although|Because|Even though|"Despite" is followed by a noun phrase; "although" and "even though" need a clause.
+M|Fill in the blank: Take an umbrella ___ it rains.|in case|unless|so that|although|"In case" means "as a precaution against the possibility that".
+M|Fill in the blank: The restaurant was expensive; ___, the food was excellent.|however|therefore|because|so|"However" introduces a contrast between two independent clauses.
+M|Fill in the blank: Not only is she clever, ___ she is also kind.|but|and|or|so|"Not only" pairs with "but (also)".
+M|Fill in the blank: I haven't seen him ___ he moved to Canada.|since|for|until|while|"Since" marks the starting point of the period.
+M|Fill in the blank: Either you apologize ___ you leave.|or|nor|and|but|"Either" pairs with "or".
+M|Fill in the blank: ___ I was walking home, I saw a rainbow.|While|During|Despite|Unless|"While" introduces a clause describing a simultaneous action.
+M|Fill in the blank: He was tired; ___, he finished the report.|nevertheless|therefore|because|consequently|"Nevertheless" means "in spite of that".
+H|Fill in the blank: ___ hard he tried, he couldn't open the jar.|However|Whatever|Whenever|Wherever|"However + adjective/adverb" means "no matter how".
+H|Fill in the blank: The project failed, ___ was a surprise to everyone.|which|that|what|who|"Which" introduces a non-restrictive relative clause referring to the whole previous clause.
+H|Fill in the blank: Hardly had I sat down ___ the phone rang.|when|than|then|that|"Hardly ... when" is the correct pairing (not "than", which pairs with "no sooner").
+H|Fill in the blank: No sooner had she left ___ it started to rain.|than|when|then|that|"No sooner ... than" is the correct correlative pair.
+H|Fill in the blank: I'll lend you the money ___ you pay it back by Friday.|provided that|in case|even if|whereas|"Provided that" sets a condition.
+H|Fill in the blank: ___ he apologized, I still felt hurt.|Even though|Even if|Because|So that|"Even though" introduces a real contrast with a fact (he did apologize).
+H|Fill in the blank: The evidence was weak; ___, the jury convicted him.|nonetheless|therefore|moreover|because|"Nonetheless" shows an unexpected contrast with the previous statement.
+H|Fill in the blank: She was promoted ___ her excellent performance.|on account of|despite|although|even though|"On account of" means "because of" and is followed by a noun phrase.
+H|Fill in the blank: We arrived late, ___ we missed the opening speech.|and consequently|however|although|unless|"Consequently" shows that missing the speech resulted from arriving late.
+H|Fill in the blank: The town is small ___ charming.|yet|so|because|nor|"Yet" introduces an unexpected contrast, like "but".
+X|Fill in the blank: ___ the committee approves the plan, construction will begin in May.|Assuming that|Lest|Whereas|Insofar as|"Assuming that" introduces a condition treated as likely.
+X|Fill in the blank: She whispered ___ she should wake the baby.|lest|unless|so that|in case|"Lest" means "for fear that" and is formal.
+X|Fill in the blank: The data are reliable ___ they were collected under controlled conditions.|insofar as|in case|lest|whereas|"Insofar as" means "to the extent that".
+X|Fill in the blank: ___ he had studied all night, he still failed the exam.|Notwithstanding that|Lest|So that|Provided that|"Notwithstanding that" is a formal equivalent of "although".
+X|Fill in the blank: Scarcely had the concert begun ___ the power went out.|when|than|that|then|"Scarcely ... when" is the correct pairing.
+X|Fill in the blank: The proposal was rejected ___ it did not address the main problem.|inasmuch as|whereas|lest|provided that|"Inasmuch as" is a formal way to say "because".

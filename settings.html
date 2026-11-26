@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Settings — PetalTalk</title>
+  <meta name="description" content="PetalTalk preferences, quiz defaults and data export / import.">
+  <meta name="theme-color" content="#8ABDE3">
+  <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body data-page="settings">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header" id="siteHeader"></header>
+  <main id="main" class="page">
+    <section class="wrap">
+      <div class="page-head">
+        <div><span class="eyebrow">Settings</span><h1>Make it yours</h1><p>Preferences and quiz defaults are saved instantly. Your data never leaves this browser unless you export it.</p></div>
+      </div>
+      <div class="settings-layout">
+        <nav class="settings-nav" aria-label="Settings sections">
+          <a href="#prefs" class="active">Preferences</a><a href="#quiz">Quiz defaults</a><a href="#data">Your data</a><a href="#about">About</a>
+        </nav>
+        <div>
+          <section class="paper settings-group" id="prefs"><h2>Preferences</h2><p>Sound is off by default. Turn off animations if you prefer a calmer page.</p><div id="prefGroup"></div></section>
+          <section class="paper settings-group" id="quiz"><h2>Quiz defaults</h2><p>These preselect the options on the practice page. You can still change them before every quiz.</p><div id="quizGroup"></div></section>
+          <section class="paper settings-group" id="data"><h2>Your data</h2><p>Progress is stored in this browser only and does not sync between devices. Export a backup to move it.</p>
+            <div id="dataSummary" class="mb-3"></div>
+            <div class="grid grid--2">
+              <div class="paper paper--soft paper--pad"><b>Export progress</b><p class="small muted">Downloads a JSON file with everything: stats, bookmarks, notes, settings.</p><button class="btn btn--secondary" id="exportBtn">Download backup</button></div>
+              <label class="file-drop" id="fileDrop"><b>Import progress</b><p class="small muted mb-2">Drop a PetalTalk JSON file here or click to choose. The file is validated before anything changes.</p><span class="btn btn--secondary">Choose file</span><input type="file" id="importFile" accept="application/json,.json"></label>
+            </div>
+            <div class="paper danger-zone paper--pad mt-3 row row--between"><div><b style="color:#C9697A">Reset all progress</b><div class="small muted">Deletes everything stored by PetalTalk in this browser. You'll be asked to confirm twice.</div></div><button class="btn btn--danger" id="resetBtn">Reset</button></div>
+          </section>
+          <section class="paper settings-group" id="about"><h2>About PetalTalk</h2><p>A static, open English-practice corner. No servers, no accounts, no tracking.</p><div id="aboutInfo"></div></section>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer" id="siteFooter"></footer>
+  <script src="data/questions.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/randomizer.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/achievements.js"></script>
+  <script src="js/navigation.js"></script>
+  <script src="js/daily.js"></script>
+  <script src="js/home.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/library.js"></script>
+  <script src="js/settings.js"></script>
+</body>
+</html>

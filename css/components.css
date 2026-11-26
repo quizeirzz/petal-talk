@@ -1,0 +1,126 @@
+/* ==========================================================================
+   PetalTalk — components.css
+   Buttons, toggles, progress bars, modals, toasts, misc UI atoms
+   ========================================================================== */
+
+/* Buttons ---------------------------------------------------------------- */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  padding: 11px 20px; border-radius: 999px; border: 1.5px solid transparent;
+  font-weight: 700; font-size: .95rem; line-height: 1; text-decoration: none; cursor: pointer;
+  transition: transform .18s var(--ease), box-shadow .18s, background .18s, border-color .18s;
+  white-space: nowrap; min-height: 44px;
+}
+.btn:hover { text-decoration: none; transform: translateY(-2px); }
+.btn:active { transform: translateY(0); }
+.btn:disabled, .btn[aria-disabled="true"] { opacity: .55; cursor: not-allowed; transform: none !important; box-shadow: none !important; }
+.btn svg { width: 18px; height: 18px; }
+.btn--primary { background: var(--primary); color: #fff; box-shadow: 0 6px 16px rgba(138,189,227,.4); }
+.btn--primary:hover { background: var(--primary-deep); box-shadow: 0 10px 22px rgba(138,189,227,.45); }
+.btn--secondary { background: #fff; color: var(--text); border-color: var(--border); }
+.btn--secondary:hover { border-color: var(--secondary); background: var(--soft); }
+.btn--ghost { background: transparent; color: var(--primary-deep); }
+.btn--ghost:hover { background: var(--soft); }
+.btn--mint { background: var(--success); color: #fff; }
+.btn--mint:hover { background: #7DBF9B; }
+.btn--danger { background: #fff; color: #C9697A; border-color: var(--incorrect); }
+.btn--danger:hover { background: var(--incorrect-soft); }
+.btn--sm { padding: 7px 14px; font-size: .84rem; min-height: 34px; }
+.btn--lg { padding: 14px 26px; font-size: 1.02rem; }
+.btn--block { width: 100%; }
+.btn--icon { width: 40px; height: 40px; padding: 0; border-radius: 50%; min-height: 0; }
+.btn--icon svg { width: 18px; height: 18px; }
+
+.link-btn { background: none; border: none; padding: 0; color: var(--primary-deep); font-weight: 700; cursor: pointer; }
+.link-btn:hover { text-decoration: underline; }
+
+/* Switch ----------------------------------------------------------------- */
+.switch { position: relative; width: 46px; height: 26px; flex: none; }
+.switch input { opacity: 0; width: 0; height: 0; position: absolute; }
+.switch .track {
+  position: absolute; inset: 0; border-radius: 999px; background: #D7E4F0; transition: background .2s; cursor: pointer;
+}
+.switch .track::after {
+  content: ""; position: absolute; top: 3px; left: 3px; width: 20px; height: 20px; border-radius: 50%; background: #fff;
+  box-shadow: 0 1px 3px rgba(52,71,93,.25); transition: transform .22s var(--ease);
+}
+.switch input:checked + .track { background: var(--primary); }
+.switch input:checked + .track::after { transform: translateX(20px); }
+.switch input:focus-visible + .track { outline: 3px solid rgba(138,189,227,.55); outline-offset: 2px; }
+
+/* Progress bars ---------------------------------------------------------- */
+.progress { height: 10px; border-radius: 999px; background: var(--soft); overflow: hidden; position: relative; }
+.progress > i { display: block; height: 100%; width: 0; border-radius: 999px; background: linear-gradient(90deg, var(--primary-deep), var(--primary)); transition: width .7s var(--ease); }
+.progress--thin { height: 6px; }
+.progress--mint > i { background: var(--success); }
+.progress--striped > i { background-image: repeating-linear-gradient(45deg, rgba(255,255,255,.25) 0 6px, transparent 6px 12px); }
+.progress-petals { display: flex; gap: 4px; }
+.progress-petals i { flex: 1; height: 8px; border-radius: 4px; background: var(--soft); }
+.progress-petals i.on { background: var(--primary); }
+
+/* Quiz top progress ------------------------------------------------------ */
+.quiz-progress { height: 12px; border-radius: 999px; background: #fff; border: 1px solid var(--border); overflow: hidden; }
+.quiz-progress i { display: block; height: 100%; background: linear-gradient(90deg, var(--primary), var(--periwinkle)); transition: width .5s var(--ease); border-radius: 999px; }
+
+/* Modal ------------------------------------------------------------------ */
+.modal-backdrop {
+  position: fixed; inset: 0; z-index: 120; background: rgba(52,71,93,.32); backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px);
+  display: grid; place-items: center; padding: 20px; opacity: 0; visibility: hidden; transition: opacity .25s, visibility .25s;
+}
+.modal-backdrop.open { opacity: 1; visibility: visible; }
+.modal {
+  width: min(460px, 100%); background: #fff; border-radius: 20px; padding: 26px 26px 22px; box-shadow: var(--shadow-l); position: relative;
+  transform: translateY(12px) scale(.98); transition: transform .25s var(--ease); border: 1px solid var(--border);
+}
+.modal-backdrop.open .modal { transform: none; }
+.modal .modal-mimo { width: 86px; margin: -66px auto 4px; display: block; }
+.modal h3 { text-align: center; font-family: var(--font-display); font-size: 1.35rem; margin-bottom: 6px; }
+.modal p { text-align: center; color: #51657C; font-size: .95rem; }
+.modal .modal-actions { display: flex; gap: 10px; justify-content: center; margin-top: 18px; flex-wrap: wrap; }
+.modal input[type="text"] { width: 100%; padding: 10px 12px; border: 1.5px solid var(--border); border-radius: 10px; margin-top: 8px; }
+
+/* Toasts ----------------------------------------------------------------- */
+.toast-stack { position: fixed; right: 20px; bottom: 20px; z-index: 130; display: grid; gap: 10px; width: min(340px, calc(100vw - 40px)); }
+.toast {
+  display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; padding: 12px 14px; background: #fff; border: 1px solid var(--border);
+  border-radius: 14px; box-shadow: var(--shadow); animation: rise .35s var(--ease) both; font-size: .9rem;
+}
+.toast .t-ico { width: 38px; height: 38px; border-radius: 12px; background: var(--soft); display: grid; place-items: center; }
+.toast .t-ico svg { width: 22px; height: 22px; }
+.toast .t-ico .mimo { width: 34px; }
+.toast b { display: block; font-size: .92rem; }
+.toast span { color: var(--muted); font-size: .82rem; }
+.toast .t-close { border: none; background: none; color: var(--muted); font-size: 1.2rem; line-height: 1; padding: 4px; }
+.toast--success { border-color: var(--success); }
+.toast--error { border-color: var(--incorrect); }
+.toast--achievement { border-color: var(--gold); background: linear-gradient(135deg, #fff, #FFF9E6); }
+.toast--achievement .t-ico { background: #FFF2CC; }
+
+/* Badges / medals (SVG wrappers) ---------------------------------------- */
+.pill { white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 999px; background: var(--soft); color: var(--primary-deep); font-size: .76rem; font-weight: 700; }
+.pill--mint { background: var(--success-soft); color: #4E9B74; }
+.pill--pink { background: var(--incorrect-soft); color: #C9697A; }
+.pill--gold { background: #FFF2CC; color: #B48A1F; }
+.pill--grey { background: #EEF2F6; color: var(--muted); }
+
+/* Search input ----------------------------------------------------------- */
+.search { position: relative; }
+.search input { width: 100%; padding: 11px 14px 11px 40px; border-radius: 999px; border: 1.5px solid var(--border); background: #fff; }
+.search svg { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); width: 18px; height: 18px; color: var(--muted); }
+
+/* Bookmark button -------------------------------------------------------- */
+.bm-btn { display: inline-flex; align-items: center; gap: 6px; border: 1.5px solid var(--border); background: #fff; padding: 6px 12px; border-radius: 999px; font-size: .82rem; font-weight: 700; color: #51657C; }
+.bm-btn svg { width: 16px; height: 16px; }
+.bm-btn.on { border-color: var(--primary); color: var(--primary-deep); background: var(--soft); }
+.bm-btn.on svg path { fill: var(--primary); }
+
+/* Inline Mimo sizes ------------------------------------------------------ */
+.mimo { display: inline-block; }
+.mimo svg { width: 100%; height: auto; }
+
+/* Keyboard hint ---------------------------------------------------------- */
+kbd { font-family: inherit; font-size: .72rem; padding: 2px 6px; border-radius: 6px; border: 1px solid var(--border); background: #fff; box-shadow: 0 1px 0 var(--border); color: var(--muted); }
+
+/* Skip link -------------------------------------------------------------- */
+.skip-link { position: absolute; left: -999px; top: 8px; background: #fff; padding: 8px 12px; border-radius: 8px; z-index: 300; }
+.skip-link:focus { left: 8px; }

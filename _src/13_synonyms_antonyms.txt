@@ -1,0 +1,53 @@
+# Synonyms and Antonyms
+E|Choose the synonym of "big".|large|small|thin|short|"Large" means the same as "big".
+E|Choose the antonym of "hot".|cold|warm|boiling|spicy|"Cold" is the opposite of "hot".
+E|Choose the synonym of "fast".|quick|slow|late|heavy|"Quick" and "fast" both mean moving at high speed.
+E|Choose the antonym of "happy".|sad|glad|joyful|cheerful|"Sad" is the opposite of "happy"; the other options are synonyms.
+E|Choose the synonym of "smart".|intelligent|foolish|lazy|weak|"Intelligent" means the same as "smart".
+E|Choose the antonym of "begin".|end|start|open|commence|"End" is the opposite of "begin".
+E|Choose the synonym of "angry".|furious|calm|pleased|gentle|"Furious" means extremely angry.
+E|Choose the antonym of "easy".|difficult|simple|effortless|light|"Difficult" is the opposite of "easy".
+E|Choose the synonym of "tired".|weary|energetic|lively|awake|"Weary" means feeling tired.
+E|Choose the antonym of "brave".|cowardly|bold|fearless|daring|"Cowardly" is the opposite of "brave"; the others are synonyms.
+E|Choose the synonym of "funny".|amusing|serious|boring|sad|"Amusing" means causing laughter, like "funny".
+E|Choose the antonym of "rich".|poor|wealthy|famous|generous|"Poor" is the opposite of "rich".
+E|Choose the synonym of "beautiful".|pretty|ugly|plain|dull|"Pretty" is close in meaning to "beautiful".
+E|Choose the antonym of "noisy".|quiet|loud|busy|crowded|"Quiet" is the opposite of "noisy".
+E|Choose the synonym of "cheap".|inexpensive|costly|precious|valuable|"Inexpensive" means not costing much, like "cheap".
+E|Choose the antonym of "arrive".|depart|come|reach|enter|"Depart" means to leave, the opposite of "arrive".
+E|Choose the synonym of "sad".|unhappy|cheerful|pleased|delighted|"Unhappy" means the same as "sad".
+E|Choose the antonym of "wide".|narrow|broad|vast|open|"Narrow" is the opposite of "wide".
+M|Choose the synonym of "diligent".|hardworking|lazy|careless|clumsy|"Diligent" describes someone who works carefully and steadily.
+M|Choose the antonym of "generous".|stingy|kind|giving|charitable|"Stingy" means unwilling to give, the opposite of "generous".
+M|Choose the synonym of "ancient".|old|new|recent|fresh|"Ancient" means belonging to the very distant past.
+M|Choose the antonym of "expand".|shrink|grow|enlarge|stretch|"Shrink" means to become smaller, the opposite of "expand".
+M|Choose the synonym of "accurate".|precise|wrong|vague|rough|"Accurate" and "precise" both mean exact and correct.
+M|Choose the antonym of "temporary".|permanent|brief|short|passing|"Permanent" means lasting forever, the opposite of "temporary".
+M|Choose the synonym of "brief".|short|long|lengthy|extended|"Brief" means lasting a short time.
+M|Choose the antonym of "ancient".|modern|old|antique|aged|"Modern" is the opposite of "ancient".
+M|Choose the synonym of "cautious".|careful|reckless|bold|hasty|"Cautious" means careful to avoid danger.
+M|Choose the antonym of "optimistic".|pessimistic|hopeful|positive|confident|"Pessimistic" means expecting the worst, the opposite of "optimistic".
+M|Choose the synonym of "assist".|help|hinder|block|ignore|"Assist" means to help.
+M|Choose the antonym of "abundant".|scarce|plentiful|ample|rich|"Scarce" means in short supply, the opposite of "abundant".
+M|Choose the synonym of "vacant".|empty|full|occupied|crowded|"Vacant" means not occupied or empty.
+M|Choose the antonym of "humble".|arrogant|modest|shy|meek|"Arrogant" means having an exaggerated sense of importance, the opposite of "humble".
+M|Choose the synonym of "reveal".|disclose|hide|conceal|cover|"Reveal" and "disclose" both mean to make something known.
+M|Choose the antonym of "flexible".|rigid|bendable|supple|elastic|"Rigid" means stiff and unbending, the opposite of "flexible".
+M|Choose the synonym of "purchase".|buy|sell|borrow|steal|"Purchase" means to buy.
+M|Choose the antonym of "include".|exclude|contain|involve|add|"Exclude" means to leave out, the opposite of "include".
+H|Choose the synonym of "ambiguous".|unclear|obvious|definite|plain|"Ambiguous" means open to more than one interpretation; unclear.
+H|Choose the antonym of "benevolent".|malicious|kind|charitable|caring|"Malicious" means intending harm, the opposite of "benevolent".
+H|Choose the synonym of "frugal".|thrifty|wasteful|lavish|extravagant|"Frugal" means careful with money, like "thrifty".
+H|Choose the antonym of "verbose".|concise|wordy|lengthy|talkative|"Concise" means expressing much in few words, the opposite of "verbose".
+H|Choose the synonym of "candid".|frank|dishonest|secretive|evasive|"Candid" and "frank" both mean honest and direct.
+H|Choose the antonym of "hostile".|friendly|aggressive|unfriendly|antagonistic|"Friendly" is the opposite of "hostile".
+H|Choose the synonym of "tedious".|boring|exciting|thrilling|brief|"Tedious" means too long, slow, or dull.
+H|Choose the antonym of "transparent".|opaque|clear|see-through|obvious|"Opaque" means not allowing light through, the opposite of "transparent".
+H|Choose the synonym of "resilient".|tough|fragile|weak|delicate|"Resilient" means able to recover quickly; strong and tough.
+H|Choose the antonym of "zealous".|indifferent|passionate|eager|enthusiastic|"Indifferent" means showing no interest, the opposite of "zealous".
+X|Choose the synonym of "ostentatious".|showy|modest|plain|subtle|"Ostentatious" means designed to impress or attract notice; showy.
+X|Choose the antonym of "loquacious".|taciturn|talkative|chatty|garrulous|"Taciturn" means reserved and saying little, the opposite of "loquacious".
+X|Choose the synonym of "ameliorate".|improve|worsen|damage|neglect|"Ameliorate" means to make something better.
+X|Choose the antonym of "parsimonious".|generous|stingy|miserly|frugal|"Parsimonious" means extremely unwilling to spend; "generous" is its opposite.
+X|Choose the synonym of "sycophant".|flatterer|critic|rebel|leader|A sycophant is a person who flatters others to gain advantage.
+X|Choose the antonym of "ephemeral".|enduring|fleeting|brief|momentary|"Enduring" means long-lasting, the opposite of "ephemeral".

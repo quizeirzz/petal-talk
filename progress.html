@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Progress — PetalTalk</title>
+  <meta name="description" content="Your PetalTalk learning dashboard: streaks, accuracy, weekly activity and category mastery.">
+  <meta name="theme-color" content="#8ABDE3">
+  <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body data-page="progress">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header" id="siteHeader"></header>
+  <main id="main" class="page">
+    <section class="wrap">
+      <div class="page-head">
+        <div><span class="eyebrow">Learning dashboard</span><h1>How your garden is growing</h1><p>Every number here comes from your own saved practice in this browser. Nothing is estimated or made up.</p></div>
+        <span id="progMimo"></span>
+      </div>
+      <div class="overview" id="overview"></div>
+      <div class="two-col mt-4">
+        <div class="stack">
+          <div class="paper chart-wrap"><div class="section-head mb-2" style="margin-bottom:8px"><div><h3 class="mb-0">This week</h3><p class="small" id="weekSummary"></p></div></div><div class="bars" id="weekChart" role="img" aria-label="Questions answered per day, last seven days"></div></div>
+          <div class="paper paper--pad"><h3>Recent quizzes</h3><div class="history-list" id="history"></div></div>
+        </div>
+        <div class="stack">
+          <div class="paper paper--pad" id="calendar"></div>
+          <div class="paper paper--soft paper--pad"><b>Keep the streak alive</b><p class="small muted mb-2">A streak counts any finished quiz — even five questions.</p><a class="btn btn--primary btn--sm" href="practice.html?mode=random&count=5&start=1">Quick 5-question quiz</a></div>
+        </div>
+      </div>
+      <div class="paper paper--pad mt-4"><div class="section-head" style="margin-bottom:12px"><div><h3 class="mb-0">Category mastery</h3><p class="small">Bars show how much of each category you've explored; accuracy is listed beside it.</p></div><a class="btn btn--secondary btn--sm" href="practice.html?mode=weak">Practice weak areas</a></div><div class="mastery" id="mastery"></div></div>
+    </section>
+    <script>document.addEventListener("DOMContentLoaded",function(){document.getElementById("progMimo").innerHTML=PT.mimo("cheer",{className:"head-mimo bob"});});</script>
+  </main>
+  <footer class="site-footer" id="siteFooter"></footer>
+  <script src="data/questions.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/randomizer.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/achievements.js"></script>
+  <script src="js/navigation.js"></script>
+  <script src="js/daily.js"></script>
+  <script src="js/home.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/library.js"></script>
+  <script src="js/settings.js"></script>
+</body>
+</html>

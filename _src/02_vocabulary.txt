@@ -1,0 +1,53 @@
+# Vocabulary
+E|What does "enormous" mean?|very large|very small|very fast|very quiet|"Enormous" means extremely large in size or amount.
+E|Choose the word that means "happy".|cheerful|gloomy|angry|tired|"Cheerful" describes someone who is noticeably happy and positive.
+E|Which word means "to begin"?|start|finish|stop|pause|"Start" and "begin" are synonyms meaning to set something in motion.
+E|What is the opposite of "ancient"?|modern|old|historic|aged|"Ancient" means very old; "modern" means belonging to the present time.
+E|Fill in the blank: Please ___ the door; it's cold outside.|close|open|break|paint|Closing the door keeps the cold out; the context makes "close" the only logical choice.
+E|Which word describes someone who is not afraid?|brave|timid|nervous|shy|"Brave" means ready to face danger or difficulty without fear.
+E|What does "tiny" mean?|very small|very large|very loud|very bright|"Tiny" is an informal word meaning extremely small.
+E|Choose the word that means "a place where books are kept and borrowed".|library|bakery|garage|pharmacy|A library is a building or room containing collections of books for people to read or borrow.
+E|Which word means "quick"?|rapid|slow|lazy|calm|"Rapid" means happening in a short time or at great speed.
+E|What is a "meal eaten in the morning" called?|breakfast|dinner|supper|dessert|Breakfast is the first meal of the day, eaten in the morning.
+E|Fill in the blank: The baby is ___ because she is hungry.|crying|laughing|sleeping|dancing|A hungry baby typically cries; the other options do not fit the cause given.
+E|Which word means "to fix something that is broken"?|repair|destroy|lose|ignore|"Repair" means to restore something damaged to good condition.
+E|What does "polite" mean?|having good manners|being very loud|being very rich|being very tall|A polite person shows respect and good manners toward others.
+E|Which word means "a person who teaches"?|teacher|student|driver|farmer|A teacher is someone whose job is to teach, especially in a school.
+E|Choose the word that means "difficult".|hard|easy|simple|soft|"Hard" can mean "difficult", as in "a hard question".
+E|What is the opposite of "empty"?|full|hollow|bare|vacant|"Full" means containing as much as possible; "empty" means containing nothing.
+E|Fill in the blank: I need an ___ because it is raining.|umbrella|oven|eraser|envelope|An umbrella protects you from rain.
+E|Which word means "to speak very quietly"?|whisper|shout|scream|yell|To whisper is to speak using your breath rather than your voice, very softly.
+M|What does "reluctant" mean?|unwilling or hesitant|eager and excited|extremely tired|very careful|A reluctant person does not want to do something and hesitates to do it.
+M|Choose the best word: The instructions were so ___ that nobody understood them.|vague|clear|precise|detailed|"Vague" means unclear or not specific, which explains why nobody understood.
+M|What does "generous" mean?|willing to give freely|very strict|extremely careful|easily annoyed|A generous person gives more than is expected, whether money, time, or kindness.
+M|Which word means "to make something less severe"?|alleviate|aggravate|intensify|prolong|"Alleviate" means to make pain or a problem less severe.
+M|What does "abundant" mean?|existing in large quantities|very rare|extremely expensive|slightly damaged|"Abundant" describes something plentiful, available in large amounts.
+M|Fill in the blank: Her ___ for music began when she was a child.|passion|patience|portion|pension|"Passion" means a strong enthusiasm for something.
+M|What does "fragile" mean?|easily broken|very heavy|extremely strong|brightly colored|Fragile objects break easily and must be handled with care.
+M|Which word best completes the sentence: The scientist made a remarkable ___.|discovery|discover|discovering|discovered|After the adjective "remarkable", a noun is needed: "discovery".
+M|What does "persuade" mean?|to convince someone to do something|to prevent someone from leaving|to punish someone|to forget something|To persuade is to cause someone to do or believe something through reasoning or argument.
+M|Which word means "a feeling of great happiness"?|delight|despair|grief|dread|"Delight" means great pleasure or joy.
+M|What does "hesitate" mean?|to pause before acting|to run quickly|to speak loudly|to agree immediately|To hesitate is to pause because of uncertainty or reluctance.
+M|Fill in the blank: The old bridge is not ___; it may fall down.|stable|fertile|visible|flexible|"Stable" means firmly fixed and not likely to move or fall.
+M|What does "ambitious" mean?|having a strong desire to succeed|being very lazy|feeling very sad|being easily frightened|An ambitious person has a strong wish to achieve success or power.
+M|Which word means "to examine something closely"?|inspect|neglect|abandon|assume|To inspect is to look at something carefully to check its condition.
+M|What does "temporary" mean?|lasting for a limited time|lasting forever|happening every day|extremely rare|Something temporary lasts only for a short period.
+M|Which word means "an exact copy"?|duplicate|original|sketch|outline|A duplicate is an exact copy of something.
+M|What does "exhausted" mean?|extremely tired|very excited|slightly bored|completely lost|"Exhausted" means drained of energy; extremely tired.
+M|Fill in the blank: The teacher gave us a ___ of the chapter before the exam.|summary|surgery|salary|scenery|A summary is a brief statement of the main points.
+H|What does "meticulous" mean?|showing great attention to detail|careless and hasty|extremely loud|deeply emotional|A meticulous person is very careful and precise about details.
+H|Choose the best word: The politician's speech was full of ___ promises that he never kept.|hollow|solid|sincere|humble|"Hollow" promises are empty or insincere.
+H|What does "ubiquitous" mean?|present everywhere|very rare|extremely old|hard to understand|"Ubiquitous" means appearing or found everywhere.
+H|What does "candid" mean?|truthful and straightforward|secretive and shy|wealthy and powerful|confused and lost|A candid person speaks honestly, even when the truth is uncomfortable.
+H|Which word means "a person who is new to a skill or activity"?|novice|veteran|expert|mentor|A novice is a beginner.
+H|What does "benevolent" mean?|kind and well-meaning|cruel and harsh|lazy and careless|wealthy and proud|"Benevolent" describes someone who is kind and wants to help others.
+H|Fill in the blank: After the scandal, the company tried to ___ its damaged reputation.|restore|resign|rescue|remove|To restore a reputation means to bring it back to its former good state.
+H|What does "indifferent" mean?|having no particular interest|very different|extremely eager|slightly unusual|An indifferent person does not care one way or the other.
+H|Which word means "to give up a position or claim formally"?|relinquish|retain|reclaim|reinforce|To relinquish is to voluntarily give up something, such as power or a right.
+H|What does "lucid" mean?|clear and easy to understand|dark and gloomy|sticky and wet|loud and noisy|A lucid explanation is expressed clearly.
+X|What does "ephemeral" mean?|lasting for a very short time|extremely heavy|very expensive|deeply religious|"Ephemeral" describes something that lasts only briefly, like a soap bubble.
+X|What does "obsequious" mean?|excessively eager to please|openly hostile|quietly confident|stubbornly independent|An obsequious person flatters and obeys others too eagerly to gain favor.
+X|Which word means "something mysterious that is difficult to understand or explain"?|enigma|axiom|cliché|prelude|An enigma is a mysterious or puzzling thing.
+X|What does "pragmatic" mean?|dealing with things practically and realistically|idealistic and dreamy|loud and aggressive|strictly traditional|A pragmatic person focuses on what works rather than on theory.
+X|Fill in the blank: The lawyer's ___ argument left the jury convinced of her client's innocence.|cogent|tenuous|verbose|tepid|"Cogent" means clear, logical, and convincing.
+X|What does "magnanimous" mean?|generous and forgiving, especially toward a rival|large in physical size|extremely cautious|noisy and chaotic|A magnanimous person is noble and generous, especially toward someone less powerful or a defeated opponent.

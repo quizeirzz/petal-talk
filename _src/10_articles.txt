@@ -1,0 +1,53 @@
+# Articles
+E|Fill in the blank: I saw ___ elephant at the zoo.|an|a|the|no article|"Elephant" begins with a vowel sound, so "an" is used.
+E|Fill in the blank: She has ___ dog and two cats.|a|an|the|some|"Dog" begins with a consonant sound and is mentioned for the first time, so "a" is correct.
+E|Fill in the blank: ___ sun rises in the east.|The|A|An|No article|There is only one sun, so we use the definite article "the".
+E|Fill in the blank: He is ___ honest man.|an|a|the|no article|The "h" in "honest" is silent, so the word begins with a vowel sound and takes "an".
+E|Fill in the blank: Can you pass me ___ salt, please?|the|a|an|some of|Both speakers know which salt is meant, so "the" is used.
+E|Fill in the blank: I would like ___ apple.|an|a|the|any|"Apple" starts with a vowel sound: "an apple".
+E|Fill in the blank: She is ___ university student.|a|an|the|no article|"University" begins with a "y" consonant sound, so "a" is correct.
+E|Fill in the blank: We stayed at ___ hotel near the beach.|a|an|the|no article|"Hotel" starts with a pronounced "h", so "a hotel" is correct in modern English.
+E|Fill in the blank: ___ moon looks beautiful tonight.|The|A|An|No article|There is only one moon, so "the" is used.
+E|Fill in the blank: I bought ___ orange and ___ banana.|an / a|a / an|the / an|an / an|"Orange" begins with a vowel sound (an), and "banana" begins with a consonant sound (a).
+E|Fill in the blank: My father is ___ engineer.|an|a|the|no article|Professions take an article, and "engineer" begins with a vowel sound.
+E|Fill in the blank: Is there ___ bank near here?|a|an|the|no article|Asking about any bank, not a specific one, calls for "a".
+E|Fill in the blank: ___ children are playing outside. (speaking about specific, known children)|The|A|An|Some of|When we talk about specific children known to both speakers, we use "the".
+E|Fill in the blank: I need ___ umbrella.|an|a|the|some|"Umbrella" begins with a vowel sound, so "an" is used.
+E|Fill in the blank: She plays ___ piano beautifully.|the|a|an|no article|Musical instruments usually take "the" after "play": play the piano.
+E|Fill in the blank: We had ___ wonderful time at the party.|a|an|the|no article|"Wonderful" begins with a consonant sound, so "a" is used.
+E|Fill in the blank: This is ___ best cake I have ever eaten.|the|a|an|no article|Superlatives are preceded by "the".
+E|Fill in the blank: He wants to be ___ actor.|an|a|the|no article|"Actor" begins with a vowel sound, so "an" is correct.
+M|Fill in the blank: She goes to ___ school by bike.|no article|the|a|an|"Go to school" (as a student) uses no article, because it refers to the activity, not the building.
+M|Fill in the blank: ___ Mount Everest is the highest mountain in the world.|No article|The|A|An|Names of individual mountains do not take an article.
+M|Fill in the blank: He played ___ football for the national team.|no article|the|a|an|Sports are used without an article after "play".
+M|Fill in the blank: I had ___ breakfast at seven.|no article|a|the|an|Meals are usually used without an article: have breakfast, have lunch.
+M|Fill in the blank: She lives in ___ Netherlands.|the|no article|a|an|Country names that are plural or contain words like "kingdom", "republic", or "states" take "the".
+M|Fill in the blank: ___ honesty is the best policy.|No article|The|A|An|Abstract nouns used in a general sense take no article.
+M|Fill in the blank: It is ___ one-way street.|a|an|the|no article|"One" begins with a "w" consonant sound, so "a" is correct.
+M|Fill in the blank: He is in ___ hospital after the accident. (as a patient, British usage)|no article|a|an|the|In British English, "in hospital" without an article means being a patient there.
+M|Fill in the blank: She is ___ only person who understands me.|the|a|an|no article|"Only" identifies a unique person, so it is preceded by "the".
+M|Fill in the blank: We visited ___ Louvre in Paris.|the|a|an|no article|Famous museums, galleries, and buildings usually take "the".
+M|Fill in the blank: I usually have ___ cup of coffee in the morning.|a|an|the|no article|"Cup" is a singular countable noun mentioned generally, so "a" is correct.
+M|Fill in the blank: ___ Amazon is the largest river in South America.|The|No article|A|An|Rivers take the definite article "the".
+M|Fill in the blank: He speaks ___ French fluently.|no article|the|a|an|Languages do not take an article.
+M|Fill in the blank: She was elected ___ president of the club.|no article|a|an|the|Unique positions after verbs like "elect" or "appoint" are often used without an article.
+M|Fill in the blank: My brother is ___ MBA student.|an|a|the|no article|"MBA" is pronounced "em-bee-ay", starting with a vowel sound, so "an" is correct.
+M|Fill in the blank: I saw ___ European film last night.|a|an|the|no article|"European" begins with a "y" consonant sound, so "a" is correct.
+M|Fill in the blank: There was ___ accident on the highway this morning.|an|a|the|no article|"Accident" begins with a vowel sound and is introduced for the first time.
+M|Fill in the blank: ___ Pacific is the largest ocean.|The|No article|A|An|Oceans and seas take "the".
+H|Fill in the blank: She plays ___ chess every weekend.|no article|the|a|an|Games, like sports, are used without an article.
+H|Fill in the blank: ___ rich should help ___ poor.|The / the|A / a|No article / no article|The / a|"The + adjective" refers to a group of people: the rich, the poor.
+H|Fill in the blank: He has ___ few close friends, so he is never lonely.|a|the|an|no article|"A few" means "some" (positive); "few" without an article means "almost none".
+H|Fill in the blank: She is ___ FBI agent.|an|a|the|no article|"FBI" is pronounced "ef-bee-eye", beginning with a vowel sound, so "an" is used.
+H|Fill in the blank: He was sent to ___ prison for theft.|no article|the|a|an|"Sent to prison" as a convict uses no article; "the prison" refers to the building.
+H|Fill in the blank: ___ Himalayas stretch across several countries.|The|No article|A|An|Mountain ranges (plural) take "the".
+H|Fill in the blank: She caught me by ___ arm.|the|an|a|no article|With parts of the body after prepositions in this pattern, "the" is used: by the arm.
+H|Fill in the blank: We arrived at ___ same time.|the|a|an|no article|"Same" is always preceded by "the".
+H|Fill in the blank: I'd like to be ___ Picasso of my generation.|the|a|an|no article|Using "the" with a famous name means "the equivalent of that person".
+H|Fill in the blank: The teacher gave ___ homework.|no article|a|an|the|"Homework" is uncountable, so it cannot take "a/an"; without context, no article is used.
+X|Fill in the blank: ___ heir to the throne was announced yesterday.|The|A|An|No article|"Heir" begins with a vowel sound (silent h), and the heir to a throne is specific, so "the" is used.
+X|Fill in the blank: She was appointed ___ chair of the committee.|no article|a|an|the|After "appoint", unique roles are often used without an article in formal English.
+X|Fill in the blank: ___ Tolstoy of our time has yet to appear.|The|A|An|No article|"The" with a famous name means "someone of equal status to that person".
+X|Fill in the blank: He drove at ___ speed of 120 km/h.|a|the|an|no article|Measurements with "at a speed/rate of" take the indefinite article.
+X|Fill in the blank: ___ unemployed are entitled to benefits.|The|No article|An|A|"The unemployed" refers to the whole group of unemployed people.
+X|Fill in the blank: It was ___ hour before anyone noticed.|an|a|the|no article|"Hour" begins with a silent h and a vowel sound, so "an hour" is correct.

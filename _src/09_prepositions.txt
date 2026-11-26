@@ -1,0 +1,53 @@
+# Prepositions
+E|Fill in the blank: The vase is standing ___ the shelf.|on|in|at|of|An object resting on a surface is "on" it.
+E|Fill in the blank: She was born ___ 2005.|in|on|at|by|"In" is used with years, months, and seasons.
+E|Fill in the blank: The meeting is ___ Monday.|on|in|at|to|"On" is used with days of the week and dates.
+E|Fill in the blank: I'll see you ___ 5 o'clock.|at|in|on|for|"At" is used with clock times.
+E|Fill in the blank: The cat is hiding ___ the bed.|under|on|above|over|Something hidden beneath an object is "under" it.
+E|Fill in the blank: We live ___ a small town.|in|on|at|by|"In" is used for towns, cities, and countries.
+E|Fill in the blank: She walked ___ the room and sat down.|into|on|at|off|Movement from outside to inside uses "into".
+E|Fill in the blank: He is afraid ___ spiders.|of|from|at|by|The adjective "afraid" is followed by "of".
+E|Fill in the blank: I go to school ___ bus.|by|with|on|in|Means of transport are expressed with "by": by bus, by car.
+E|Fill in the blank: The picture is hanging ___ the wall.|on|in|at|over|Things attached to a surface are "on" it.
+E|Fill in the blank: My birthday is ___ July.|in|on|at|of|Months take the preposition "in".
+E|Fill in the blank: Please put the milk ___ the fridge.|in|on|at|under|Something placed inside a container is "in" it.
+E|Fill in the blank: We played football ___ the afternoon.|in|at|on|by|"In" is used with parts of the day: in the morning, in the afternoon.
+E|Fill in the blank: She is sitting ___ her two best friends.|between|into|under|of|"Between" shows a position with people or things on either side.
+E|Fill in the blank: The dog ran ___ the street.|across|among|above|of|Moving from one side to the other uses "across".
+E|Fill in the blank: He is good ___ math.|at|in|on|for|"Good" is followed by "at" when talking about skills.
+E|Fill in the blank: The shop is ___ the bank and the post office.|between|among|under|into|Two reference points on either side call for "between".
+E|Fill in the blank: Look ___ the beautiful sky!|at|on|to|in|"Look at" is the fixed combination for directing your eyes toward something.
+M|Fill in the blank: She arrived ___ the airport two hours early.|at|in|on|to|"Arrive at" is used for specific places like airports or stations; "arrive in" is for cities and countries.
+M|Fill in the blank: He has been waiting ___ an hour.|for|since|during|from|"For" is used with a length of time.
+M|Fill in the blank: I haven't seen her ___ last summer.|since|for|from|during|"Since" is used with a starting point in time.
+M|Fill in the blank: She is married ___ a doctor.|to|with|by|at|The correct expression is "married to someone".
+M|Fill in the blank: The train leaves ___ ten minutes.|in|after|at|on|"In ten minutes" means ten minutes from now.
+M|Fill in the blank: We walked ___ the forest for hours.|through|across|over|above|Moving within an enclosed space such as a forest uses "through".
+M|Fill in the blank: She apologized ___ being late.|for|of|about|at|"Apologize for" is followed by the reason.
+M|Fill in the blank: He insisted ___ paying for dinner.|on|in|at|for|The verb "insist" is followed by "on".
+M|Fill in the blank: It depends ___ the weather.|on|of|at|from|"Depend" is always followed by "on" (or "upon").
+M|Fill in the blank: The cat jumped ___ the fence.|over|above|across|through|Movement in an arc from one side to another uses "over".
+M|Fill in the blank: I am interested ___ learning Japanese.|in|on|at|for|"Interested" is followed by "in".
+M|Fill in the blank: Divide the cake ___ the four children.|among|between|into|under|"Among" is used for sharing with three or more people.
+M|Fill in the blank: She fell asleep ___ the movie.|during|while|for|since|"During" is a preposition followed by a noun; "while" needs a clause.
+M|Fill in the blank: He was accused ___ stealing.|of|for|with|by|"Accuse someone of something" is the correct pattern.
+M|Fill in the blank: The novel was written ___ a famous poet.|by|from|with|of|In passive sentences, "by" introduces the agent.
+M|Fill in the blank: She is responsible ___ the whole project.|for|of|with|to|"Responsible for" expresses duty or charge.
+M|Fill in the blank: We congratulated him ___ his promotion.|on|for|about|with|"Congratulate someone on something" is the standard collocation.
+M|Fill in the blank: I'm not familiar ___ this software.|with|to|of|about|"Familiar with" means knowing something well.
+H|Fill in the blank: The results are consistent ___ our hypothesis.|with|to|of|for|"Consistent with" means in agreement with.
+H|Fill in the blank: He was absorbed ___ his work and didn't hear the phone.|in|with|on|at|"Absorbed in" means fully concentrating on something.
+H|Fill in the blank: She prides herself ___ her punctuality.|on|in|for|about|"Pride oneself on" is a fixed expression.
+H|Fill in the blank: The town is situated ___ the banks of the river.|on|in|at|by|"Situated on the banks" is the standard phrase for a riverside location.
+H|Fill in the blank: She succeeded ___ passing the exam.|in|at|on|to|"Succeed in" is followed by a gerund.
+H|Fill in the blank: He has a talent ___ languages.|for|in|at|of|"A talent for" expresses natural ability in an area.
+H|Fill in the blank: This medicine is a cure ___ headaches.|for|of|against|to|"Cure for" is the standard collocation.
+H|Fill in the blank: They were deprived ___ their rights.|of|from|with|by|"Deprive someone of something" is the correct construction.
+H|Fill in the blank: The decision is entirely ___ you.|up to|on|for|at|"Up to you" means it is your responsibility or choice.
+H|Fill in the blank: She was praised ___ her courage.|for|about|on|of|"Praise someone for something" is the correct pattern.
+X|Fill in the blank: He is immune ___ criticism.|to|from|against|of|"Immune to" is the standard preposition for both disease and criticism.
+X|Fill in the blank: The author alludes ___ Greek mythology throughout the book.|to|at|on|about|"Allude to" means to refer indirectly to something.
+X|Fill in the blank: The new law is at odds ___ the constitution.|with|to|against|from|"At odds with" means in conflict with.
+X|Fill in the blank: Her success is attributable ___ hard work.|to|of|for|by|"Attributable to" means caused by.
+X|Fill in the blank: He was oblivious ___ the danger.|to|of|at|about|"Oblivious to" is the most common modern form (though "oblivious of" is also accepted in older usage).
+X|Fill in the blank: Their behavior was in keeping ___ the school's values.|with|to|of|for|"In keeping with" means consistent with or appropriate to.

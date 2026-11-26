@@ -1,0 +1,15 @@
+<svg viewBox="0 0 120 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mimo the cloud">
+  <ellipse cx="60" cy="90" rx="34" ry="5" fill="#B8D9F2" opacity=".35"/>
+  <path d="M30 76 C14 76 12 56 26 52 C22 36 40 28 50 36 C54 22 76 20 82 36 C96 30 108 44 100 56 C112 60 108 78 92 78 Z" fill="#FFFFFF" stroke="#CFE3F5" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M34 72 C24 72 24 60 32 58" fill="none" stroke="#E5F2FC" stroke-width="3" stroke-linecap="round"/>
+  <path d="M86 42 C92 42 96 48 94 54" fill="none" stroke="#E5F2FC" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="41" cy="61" rx="5" ry="3" fill="#F7C8D0" opacity=".8"/>
+  <ellipse cx="81" cy="61" rx="5" ry="3" fill="#F7C8D0" opacity=".8"/>
+  <path d="M46 54q3-4 6 0M70 54q3-4 6 0" fill="none" stroke="#34475D" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M57 62q4 4 8 0" fill="none" stroke="#34475D" stroke-width="2.2" stroke-linecap="round"/>
+  <g transform="translate(92 30) rotate(12)">
+    <path d="M0 0 L-12 -7 L-10 7 Z" fill="#8ABDE3"/><path d="M0 0 L12 -7 L10 7 Z" fill="#8ABDE3"/>
+    <circle cx="0" cy="0" r="3" fill="#6FA6D4"/>
+    <path d="M-2 3 L-5 12 M2 3 L5 12" stroke="#8ABDE3" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+</svg>

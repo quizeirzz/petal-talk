@@ -1,0 +1,52 @@
+# Verb Tenses
+E|Fill in the blank: She ___ to work every day.|walks|walk|walking|walked|Routine actions use the simple present, and "she" needs the -s form.
+E|Choose the correct form: Yesterday, I ___ a letter to my friend.|wrote|write|writing|will write|"Yesterday" requires the simple past: "wrote".
+E|Fill in the blank: Look! The children ___ in the garden.|are playing|play|played|plays|"Look!" signals an action happening right now, so the present continuous is needed.
+E|Choose the correct form: Tomorrow we ___ to the zoo.|will go|went|go|going|"Tomorrow" calls for a future form: "will go".
+E|Fill in the blank: I ___ breakfast at seven this morning.|had|have|has|having|A finished action at a specific time in the past takes the simple past.
+E|Which sentence is in the present continuous?|He is reading a book.|He reads a book.|He read a book.|He has read a book.|The present continuous is formed with "is/am/are" plus the -ing form.
+E|Fill in the blank: They ___ football last weekend.|played|play|plays|are playing|"Last weekend" is a finished past time, so use the simple past.
+E|Choose the correct form: The sun ___ in the east.|rises|rise|rose|is rising|General truths use the simple present.
+E|Fill in the blank: We ___ dinner right now.|are having|have|had|will have|"Right now" indicates the present continuous.
+E|Choose the correct form: She ___ her homework an hour ago.|finished|finishes|finish|has finished|"An hour ago" marks a specific past time, so the simple past is used.
+E|Fill in the blank: I ___ a doctor when I grow up.|will be|am|was|were|A future hope or plan uses "will be".
+E|Which sentence is in the simple past?|We visited our grandparents.|We visit our grandparents.|We are visiting our grandparents.|We will visit our grandparents.|"Visited" is the simple past form.
+E|Fill in the blank: My father ___ coffee every morning.|drinks|drink|is drink|drank|Habits use the simple present, and "my father" needs "drinks".
+E|Choose the correct form: Listen! Someone ___ the piano.|is playing|plays|played|play|"Listen!" points to an action in progress right now.
+E|Fill in the blank: Last year, we ___ to Japan.|traveled|travel|travels|are traveling|"Last year" requires the simple past.
+E|Choose the correct form: It ___ cold tomorrow.|will be|is|was|be|A prediction about tomorrow uses "will be".
+E|Fill in the blank: Water ___ at 100 degrees Celsius.|boils|boil|boiled|is boiling|Scientific facts are expressed in the simple present.
+E|Which sentence is in the future tense?|I will call you later.|I called you later.|I call you later.|I am calling you now.|"Will call" expresses a future action.
+M|Fill in the blank: I ___ in this city since 2015.|have lived|live|lived|am living|"Since 2015" marks a period continuing to now, so the present perfect is required.
+M|Choose the correct form: By the time we arrived, the film ___.|had started|started|has started|starts|The past perfect shows that the film started before another past event.
+M|Fill in the blank: She ___ three books this month.|has read|read|reads|is reading|"This month" is an unfinished period, so the present perfect fits.
+M|Choose the correct form: While I ___ dinner, the phone rang.|was cooking|cooked|am cooking|cook|An action in progress interrupted by another past action uses the past continuous.
+M|Fill in the blank: This time next week, I ___ on a beach.|will be lying|will lie|lie|am lying|An action in progress at a future moment uses the future continuous.
+M|Choose the correct form: I ___ him for ten years.|have known|know|am knowing|knew|A state that began in the past and continues now uses the present perfect; "know" is not used in the continuous.
+M|Fill in the blank: When I was a child, I ___ to the beach every summer.|used to go|use to go|am going|have gone|"Used to" describes past habits that no longer happen.
+M|Choose the correct form: She ___ dinner when we arrived, so we waited.|was still cooking|has still cooked|still cooks|still cooked|The past continuous shows the action in progress at the moment of arrival.
+M|Fill in the blank: I ___ never ___ sushi before today.|had / eaten|have / ate|was / eating|did / eat|"Before today" places the experience before a past reference point, so the past perfect is used.
+M|Choose the correct form: Hurry up! The bus ___ in five minutes.|leaves|will have left|has left|left|Scheduled timetable events are often expressed with the simple present.
+M|Fill in the blank: We ___ for two hours when the rain finally stopped.|had been walking|have been walking|are walking|walk|The past perfect continuous describes a duration up to a point in the past.
+M|Choose the correct form: Don't call at eight; I ___ dinner then.|will be having|have|am having had|will have|The future continuous describes an activity in progress at a specific future time.
+M|Fill in the blank: She ___ her keys, so she can't get in.|has lost|lost|loses|is losing|The present perfect connects a past action to its present result.
+M|Choose the correct form: I ___ you as soon as I arrive.|will text|text|am texting|texted|In time clauses with "as soon as", the main clause takes "will" and the time clause takes the present.
+M|Fill in the blank: Look at those clouds! It ___ rain.|is going to|will|is|was going to|"Be going to" is used for predictions based on present evidence.
+M|Choose the correct form: He ___ TV when I came in.|was watching|watched|is watching|has watched|The past continuous describes a background action interrupted by a shorter one.
+M|Fill in the blank: They ___ married for twenty years next June.|will have been|will be|have been|are|A duration completed by a future point uses the future perfect.
+H|Choose the correct form: By 2030, scientists ___ a cure.|will have found|will find|find|have found|The future perfect describes an action completed before a future time.
+H|Fill in the blank: I wish you ___ me earlier.|had told|told|tell|have told|Regrets about the past use "wish + past perfect".
+H|Choose the correct form: She ___ for the company since she graduated.|has been working|is working|works|worked|An ongoing activity from a past point to now uses the present perfect continuous.
+H|Fill in the blank: If it ___ tomorrow, we will cancel the picnic.|rains|will rain|rained|is rain|First conditionals use the present simple in the if-clause, even for future meaning.
+H|Choose the correct form: I ___ to the gym lately, so I feel fitter.|have been going|went|go|had gone|"Lately" pairs with the present perfect continuous to show recent repeated activity.
+H|Fill in the blank: He said he ___ the report by Friday.|would finish|will finish|finishes|is finishing|In reported speech after a past verb, "will" shifts to "would".
+H|Choose the correct form: The train ___ when we reached the platform.|had already left|already left|has already left|already leaves|The past perfect shows the train left before we reached the platform.
+H|Fill in the blank: I ___ the car when I noticed the scratch.|was washing|washed|had washed|have washed|The past continuous sets the scene; the noticing interrupted the washing.
+H|Choose the correct form: They ___ here for six months by the end of March.|will have been living|are living|have lived|will live|The future perfect continuous expresses duration up to a future point.
+H|Fill in the blank: She ___ her leg, so she couldn't play in the final.|had broken|has broken|broke|breaks|The past perfect explains a cause that happened before the past event of the final.
+X|Choose the correct form: Hardly ___ down when the doorbell rang.|had I sat|I had sat|did I sit|I sat|"Hardly ... when" requires inversion with the past perfect.
+X|Fill in the blank: I'd sooner you ___ smoke in here.|didn't|don't|won't|not|"Would sooner/rather + subject" is followed by the past simple to express a present preference.
+X|Choose the correct form: It's the first time I ___ snow.|have ever seen|ever see|ever saw|am ever seeing|"It's the first time" is followed by the present perfect.
+X|Fill in the blank: She was to ___ the award, but she fell ill.|have received|receive|receiving|received|"Was to have + past participle" describes a planned past event that did not happen.
+X|Choose the correct form: Were you to ask him, he ___ yes.|would say|will say|says|said|An inverted second conditional ("Were you to...") takes "would" in the main clause.
+X|Fill in the blank: By the time you read this letter, I ___ the country.|will have left|will leave|leave|am leaving|The future perfect marks an action completed before a future moment.

@@ -1,0 +1,53 @@
+# Adjectives and Adverbs
+E|Fill in the blank: She sings ___.|beautifully|beautiful|beauty|more beautiful|An adverb is needed to describe how she sings.
+E|Fill in the blank: This is a ___ car.|fast|fastly|fastness|more fastly|"Fast" is an adjective describing the noun "car"; "fastly" is not a word.
+E|Fill in the blank: He is ___ than his brother.|taller|tall|tallest|more tall|Comparing two people uses the comparative "taller".
+E|Fill in the blank: This is the ___ day of the year.|hottest|hotter|hot|most hot|Comparing against all days uses the superlative "hottest".
+E|Fill in the blank: The soup smells ___.|delicious|deliciously|more deliciously|delicacy|After a sense verb like "smell", an adjective describes the subject.
+E|Fill in the blank: He drives very ___.|carefully|careful|care|carefulness|An adverb describes how he drives.
+E|Fill in the blank: She is a ___ student.|good|well|goodly|better than|"Good" is the adjective used before a noun.
+E|Fill in the blank: She did ___ on the test.|well|good|goodly|best|"Well" is the adverb describing how she did.
+E|Fill in the blank: My bag is ___ than yours.|heavier|heavy|heaviest|more heavy|For two-syllable adjectives ending in -y, change y to i and add -er.
+E|Fill in the blank: The baby is sleeping ___.|quietly|quiet|quieter|quietness|An adverb is needed to describe the verb "sleeping".
+E|Fill in the blank: This movie is ___ than the book.|more interesting|interestinger|most interesting|interesting|Long adjectives form the comparative with "more".
+E|Fill in the blank: He arrived ___ at the meeting.|late|lately|later than|lateness|"Late" is both an adjective and an adverb; "lately" means "recently".
+E|Fill in the blank: She is the ___ girl in the class.|smartest|smarter|smart|most smartest|With a group, use the superlative "smartest".
+E|Fill in the blank: The weather is ___ today.|cold|coldly|colder than|coldness|After the linking verb "is", an adjective describes the weather.
+E|Fill in the blank: He speaks English ___.|fluently|fluent|fluency|more fluent|An adverb modifies the verb "speaks".
+E|Fill in the blank: It is a ___ problem.|serious|seriously|seriousness|more seriously|An adjective describes the noun "problem".
+E|Fill in the blank: Elephants are ___ than horses.|bigger|biggest|big|more big|Comparing two kinds of animals uses the comparative "bigger".
+E|Fill in the blank: The children played ___ in the garden.|happily|happy|happiness|happier|An adverb describes how they played.
+M|Fill in the blank: This exercise is ___ than the last one.|more difficult|difficulter|most difficult|difficultest|Adjectives with three or more syllables use "more" for the comparative.
+M|Fill in the blank: She felt ___ about the mistake.|bad|badly|worse than|worst|After "feel" as a linking verb, use the adjective "bad".
+M|Fill in the blank: The test was ___ easy.|surprisingly|surprising|surprised|surprise|An adverb modifies the adjective "easy".
+M|Fill in the blank: He worked ___ to finish on time.|hard|hardly|harder than|hardness|"Hard" is the adverb meaning "with effort"; "hardly" means "almost not".
+M|Fill in the blank: Of the three sisters, Anna is the ___.|youngest|younger|young|most young|With three or more people, the superlative is used.
+M|Fill in the blank: I was ___ by the ending of the film.|surprised|surprising|surprise|surprisingly|"-ed" adjectives describe how someone feels.
+M|Fill in the blank: The lecture was so ___ that I fell asleep.|boring|bored|bore|boringly|"-ing" adjectives describe the thing that causes the feeling.
+M|Fill in the blank: She ___ eats breakfast; she's usually in a hurry.|rarely|rare|rarity|rarer|An adverb of frequency is needed before the verb.
+M|Fill in the blank: This is ___ far the best pizza in town.|by|so|very|more|"By far" is used to emphasize a superlative.
+M|Fill in the blank: He is ___ enough to understand the situation.|old|older|oldest|more old|"Enough" follows a plain adjective: "old enough".
+M|Fill in the blank: The room was ___ quiet; you could hear a pin drop.|completely|complete|completion|more complete|An adverb modifies the adjective "quiet".
+M|Fill in the blank: Your English is getting ___ and ___.|better / better|good / good|best / best|well / well|"Comparative and comparative" shows gradual change.
+M|Fill in the blank: She drives ___ than her husband.|more carefully|more careful|carefuller|most carefully|Comparatives of -ly adverbs use "more".
+M|Fill in the blank: The ___ news made everyone happy.|exciting|excited|excite|excitedly|"Exciting" describes the news itself (the cause); "excited" would describe people.
+M|Fill in the blank: He looked ___ at the broken vase.|sadly|sad|sadness|sadder|Here "looked" is an action verb (he directed his eyes), so the adverb "sadly" describes how.
+M|Fill in the blank: This is the ___ expensive hotel in the city.|least|less|little|lesser|"Least" is the superlative of "little", used for the lowest degree.
+M|Fill in the blank: The patient is feeling ___ today.|better|more good|gooder|best|"Better" is the irregular comparative of "good/well".
+M|Fill in the blank: She finished the race ___ than anyone else.|faster|fastest|more fast|more faster|"Faster" is the comparative form; "fast" has the same form as adjective and adverb.
+H|Fill in the blank: The ___ he gets, the ___ he becomes.|older / wiser|oldest / wisest|more old / more wise|old / wise|The "the + comparative, the + comparative" structure uses two comparatives.
+H|Fill in the blank: She is ___ a good singer as her mother.|as|so|such|than|Equal comparisons use "as ... as".
+H|Fill in the blank: It was ___ cold day that the lake froze.|such a|so|a so|such|"Such a + adjective + noun + that" shows result.
+H|Fill in the blank: He arrived ___ than expected.|much earlier|very earlier|more early|the earliest|"Much" is used to intensify a comparative; "very" cannot.
+H|Fill in the blank: I have ___ seen such a beautiful garden.|seldom|seldomly|seldomer|more seldom|"Seldom" is already an adverb; "seldomly" is not standard.
+H|Fill in the blank: The two paintings are almost identical, but the second one is ___.|slightly larger|slightly more large|slight larger|slightest larger|"Slightly" modifies the comparative adjective "larger".
+H|Fill in the blank: Her performance was ___ than his.|far more impressive|far impressive|much impressive|very more impressive|"Far more" intensifies a long comparative adjective.
+H|Fill in the blank: The ___ student in the class is not always the hardest worker.|cleverest|cleverer|more clever|most cleverest|Two-syllable adjectives ending in -er usually take -est: "cleverest".
+H|Fill in the blank: He has ___ friends than he used to.|fewer|less|fewest|lesser|"Fewer" is used with countable nouns like "friends".
+H|Fill in the blank: She ___ answered the question; her voice was barely a whisper.|hardly|hard|harder|hardest|"Hardly" means "almost not", which fits the context of a barely audible answer.
+X|Fill in the blank: This is the ___ of the two proposals.|better|best|more better|most good|When comparing exactly two things, formal English uses the comparative "better".
+X|Fill in the blank: The results were ___ different from what we expected.|markedly|marked|more marked|markedness|An adverb modifies the adjective "different".
+X|Fill in the blank: He felt ___ uneasy about the decision.|somewhat|some|somewhere|something|"Somewhat" is an adverb of degree meaning "slightly".
+X|Fill in the blank: Of all the candidates, she spoke ___.|the most persuasively|the more persuasively|most persuasive|persuasivest|The superlative of a long adverb uses "the most".
+X|Fill in the blank: The committee found the evidence ___ convincing.|wholly|whole|wholesome|wholeness|"Wholly" is an adverb meaning "completely".
+X|Fill in the blank: The painting is ___ superior to the sketch.|vastly|vast|vaster|vastness|An adverb is needed to modify the adjective "superior".
